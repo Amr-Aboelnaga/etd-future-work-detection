@@ -1,0 +1,2 @@
+timestamp,method,model,threshold,precision,recall,f1_score,true_positives,false_positives,false_negatives,total_predictions,total_gold_pages,output_file
+2025-09-12 02:05:50,semantic,all-MiniLM-L6-v2,0.6,0.10765124555160142,0.3677811550151976,0.16655196145905024,121,1003,208,1124,329,semantic_results_semantic_minilml6v2_thresh0_60_20250912_0205.json

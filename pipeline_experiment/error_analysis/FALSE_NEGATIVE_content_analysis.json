@@ -1,0 +1,1120 @@
+[
+  {
+    "pdf_name": "Seamans.pdf",
+    "page_number": 58,
+    "chapter_title": "Chapter 3 - Data Collection, Analysis, Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27705/Seamans.pdf",
+    "error_count": 8,
+    "total_models": 8,
+    "error_rate": 1.0,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 3 - Data Collection, Analysis, Conclusions \nFOCUS OF THE STUDY \nThe focus of this study is the freshman college-student experience of needing information \nand the process of acquiring information. This study looks at how students get the information \nthey need for their coursework and for meeting their general information needs, and how they \nuse the information they find. It investigates information-literacy concepts in freshman students \nin an effort to better understand how students a"
+  },
+  {
+    "pdf_name": "PFMDissertation.pdf",
+    "page_number": 325,
+    "chapter_title": "Chapter 10: Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26567/PFMDissertation.pdf",
+    "error_count": 7,
+    "total_models": 8,
+    "error_rate": 0.875,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "CHAPTER TEN \n \n \n299\n10. CONCLUSIONS \n10.1 Single Airfoil in Turbulence \n10.1.1 Primary Contributions \n \nMeasurements of fluctuating surface pressure were made on a NACA 0015 airfoil \nimmersed in grid generated turbulence.  The airfoil model has a 2' chord and spans the 6' \nVirginia Tech Stability Wind Tunnel test section.  Two grids were used to investigate the effects \nof turbulence length scale on the surface pressure response.  A large grid which produced \nturbulence with an integral scale 1"
+  },
+  {
+    "pdf_name": "MacLeanDissertation.pdf",
+    "page_number": 232,
+    "chapter_title": "CHAPTER 7: Concluding Remarks",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27114/MacLeanDissertation.pdf",
+    "error_count": 7,
+    "total_models": 8,
+    "error_rate": 0.875,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 7, Section 1: Overview of Significant Results \npage - 211 \n \n \n7.1 Overview of Significant Results \n \n \nThe results presented here have been the outcome of a broad effort to fulfill the goals set \nout in the beginning of this document.  These goals are reproduced again here as a reminder of \nthe major conclusions of this work. \n(1.) understand the detail of the flow physics in and around a typical direct measuring \nskin friction gage as well as the causes and contributions to error in me"
+  },
+  {
+    "pdf_name": "Kook_Ph_D_Dissertation3.pdf",
+    "page_number": 191,
+    "chapter_title": "Chapter 7 Conclusions and Implications",
+    "label": "CONCLUSION|IMPLICATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/27761/Kook_Ph_D_Dissertation3.pdf",
+    "error_count": 6,
+    "total_models": 8,
+    "error_rate": 0.75,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 7 \n \n175\nChapter 7 \nConclusions and Implications \n7.1 Conclusions \nWhile the simulation based power systems analysis is one of the major parts in the field \nof the power engineering, the new simulation models to be integrated in the existing \npower grid model should be developed to come up with of the new technologies, and the \nbetter way of using the simulated results to contribute the power system operation should \nbe proposed. Thanks to the rapid advancement of Information Technology "
+  },
+  {
+    "pdf_name": "JiangWang_dissertation_final.pdf",
+    "page_number": 151,
+    "chapter_title": "Concluding Chapter",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/37387/JiangWang_dissertation_final.pdf",
+    "error_count": 6,
+    "total_models": 8,
+    "error_rate": 0.75,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 6\nConcluding Chapter\n6.1\nSummary\nThis dissertation addresses problems of \ufb02ight control for aerial vehicles and weapons in\nhighly uncertain dynamical environment. The L1 adaptive controller is extended in this\ndissertation to time-varying reference systems. Its output feedback variant is elaborated\nfrom the design perspective. Various \ufb02ight control examples are discussed on mid-to-high\n\ufb01delity simulations.\nAdaptive control for uncertain systems usually needs to handle two types of uncerta"
+  },
+  {
+    "pdf_name": "JDSchiffbauerPhDGeosciences.pdf",
+    "page_number": 449,
+    "chapter_title": "17_CHAPTER 6 conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27519/JDSchiffbauerPhDGeosciences.pdf",
+    "error_count": 6,
+    "total_models": 8,
+    "error_rate": 0.75,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "429\nCHAPTER 6 \n \nClosing thoughts  \n \nJAMES D. SCHIFFBAUER  \nDepartment of Geosciences, Virginia Polytechnic Institute and State University, Blacksburg, \nVirginia 24061, USA"
+  },
+  {
+    "pdf_name": "CaseStudyUpload4.pdf",
+    "page_number": 166,
+    "chapter_title": "Chapter 5: Discussion of Findings, Conclusions, Limitations",
+    "label": "CONCLUSION|DISCUSSION|LIMITATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/29522/CaseStudyUpload4.pdf",
+    "error_count": 6,
+    "total_models": 8,
+    "error_rate": 0.75,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5: Discussion of Findings, Conclusions, Limitations \nThe purpose of this study was to identify factors that make, an at-risk high school, \nso successful and to learn how it got there. A qualitative methodology, the case study, \nwas used.  Case study research focuses on \u201ceach case as a whole unit \u2026 as it exists in \nreal-life context\u201d (Johnson & Christensen, 2004, p. 47).  In this case study, Bright Star \nHigh School was the unit of study. This study involved what and how questions. \u201cIn \ng"
+  },
+  {
+    "pdf_name": "Dissertation_Prasun_Majumdar.pdf",
+    "page_number": 125,
+    "chapter_title": "Chapter 7: Conclusions and Recommendations",
+    "label": "CONCLUSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/27285/Dissertation_Prasun_Majumdar.pdf",
+    "error_count": 5,
+    "total_models": 8,
+    "error_rate": 0.625,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "111\nChapter 7: Conclusions and Recommendations \n7.1 Contribution to Bridge Deck Research \nThe following is a list of accomplishments from this dissertation research: \n7.1.1 Observations \n\u2022 The contact pressure distribution of real truck loading is non-uniform with more \nconcentration near the center of the contact area, in direct contrast to the conventional steel \npatch loading that produces stress concentration near edges. Due to the localization of load \nunder the tire, conventional uniform p"
+  },
+  {
+    "pdf_name": "Fu_D_D_2010.pdf",
+    "page_number": 194,
+    "chapter_title": "Chapter 5 Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27783/Fu_D_D_2010.pdf",
+    "error_count": 5,
+    "total_models": 8,
+    "error_rate": 0.625,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5 \nChapter 5  \nConclusion \n5.1 Conclusion \nThere is a large incentive to achieve high efficiency and high power density in power \ndelivery systems. Resonant dc-dc converters exhibit higher efficiency and higher power \ndensity characteristics than conventional PWM circuits. Hence, resonant converters are \nbecoming popular for dc-dc converters in commercial products. To further improve the \nperformance and solve the existing issues of resonant converters, novel concepts and \ntechniques are"
+  },
+  {
+    "pdf_name": "JS_thesis.pdf",
+    "page_number": 103,
+    "chapter_title": "CHAPTER 8: CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29953/JS_thesis.pdf",
+    "error_count": 5,
+    "total_models": 8,
+    "error_rate": 0.625,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "CHAPTER 8: CONCLUSIONS \n \nColumn Efficiency Measurements \nvan Deemter Plots \nvan Deemter curves were generated for the SpeedROD\uf6db column using butylparaben \nas a probe and a series of mobile phases containing acetonitrile/water mixtures (30/70, 40/60 \nand 50/50 acetonitrile/water).The monolithic column was compared to curves generated \nunder identical conditions using the Waters Xterra column. Differences in the A, B and C \nterms of the van Deemter equation were observed between the monolithic an"
+  },
+  {
+    "pdf_name": "Amara_dissertation.pdf",
+    "page_number": 159,
+    "chapter_title": "Chapter 5. FINDINGS AND CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26133/Amara_dissertation.pdf",
+    "error_count": 5,
+    "total_models": 8,
+    "error_rate": 0.625,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5. Findings and Conclusions \n145 \nAmara Loulizi \nChapter 5. FINDINGS AND CONCLUSIONS \n \nThis research was aimed at establishing a better understanding of analyzing GPR data \nobtained from assessing transportation infrastructure.  Two GPR systems were used: a \nground-coupled system and an air-coupled system.  The dielectric properties of different \nPortland cement concrete mixes were measured using the air-coupled system data over \nthe frequency range of 0.5 to 1 GHz.  The effect of concr"
+  },
+  {
+    "pdf_name": "Kauffman_JS_D_2017.pdf",
+    "page_number": 136,
+    "chapter_title": "Chapter 5 Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/74974/Kauffman_JS_D_2017.pdf",
+    "error_count": 5,
+    "total_models": 8,
+    "error_rate": 0.625,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5\nConclusion\n5.1\nRecap of the big picture\nDistributions of forest by stand age and type at various spatial scales provide valuable in-\nformation for optimizing forest production and sustainability. Two sources of forest stand\nage distribution, volume, and species information are forest inventory plots and remotely\nsensed data. Plot and tree data from the US Forest Service Forest Inventory and Analysis\n(FIA) program are an integral component of large area forest inventories, providing pre"
+  },
+  {
+    "pdf_name": "ETD_JuanjuanSun.pdf",
+    "page_number": 232,
+    "chapter_title": "Chapter 5. Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28071/ETD_JuanjuanSun.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5. Conclusions \n5.1 Conclusions \nTo meet the growing demand for higher power systems, as well as to supply the fast \nevolving powerful IC chips, distributed power architecture is becoming the better choice \nfor more and more applications. The paralleling operation of DC/DC switching converters \nis widely used in distributed power systems due to the request of high reliability and ease \nof standardization. However, as a result of limited tolerance of components, current \nsharing control i"
+  },
+  {
+    "pdf_name": "Arana_AJ_D_2009.pdf",
+    "page_number": 147,
+    "chapter_title": "Chapter 6 Final remarks",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/30001/Arana_AJ_D_2009.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 6 Final remarks \n \n6.1 Conclusions \n   This document focused on developing the concept of electromechanical power systems \nanalysis in the power-angle domain and proposing applications based on this technique.  It is \nshown that electromechanical transient analysis is more complex than electromagnetic transient \nanalysis since electromagnetic phenomena tend to be localized and the parameters of the \ntransmission lines are continuously distributed with distance.  Conventionally, time-doma"
+  },
+  {
+    "pdf_name": "Colacino_K_D_2013.pdf",
+    "page_number": 87,
+    "chapter_title": "Chapter 6. Conclusions and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/51212/Colacino_K_D_2013.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "67 \n \nChapter 6. Conclusions and Future Work \n6.1. Summary and Conclusions \nThe literature is full of studies trying to discover the magic bullet for cancer therapy all of \nwhich have advantages and disadvantages. While there are many nano-carriers being studied, \nonly one other group has published studies using CNCs as carriers150. We have demonstrated \ndevelopment of stable and reproducible CNCs with multiple conjugations for use in cancer \ndetection and treatment. Furthermore we have shown po"
+  },
+  {
+    "pdf_name": "Beskardes_GD_D_2017.pdf",
+    "page_number": 206,
+    "chapter_title": "Chapter 5 Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/77891/Beskardes_GD_D_2017.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama4ScoutResults_stage2_3",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 5\nConclusion\n185"
+  },
+  {
+    "pdf_name": "RM_Dissertation.pdf",
+    "page_number": 232,
+    "chapter_title": "Chapter 7 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28060/RM_Dissertation.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 7 Conclusions \n222\n                                                                CHAPTER SEVEN \n \n7. Conclusions \n \n \n7.1 Introduction \n \nThe Virginia Tech low speed linear cascade wind tunnel has been adapted to \nmodel the unsteady tip leakage flow produced by a rotor operating in the vortical wakes \nof a set of stator vanes. The cascade, consisting of 8 GE rotor B blades, has adjustable tip \ngap and a turning angle of 11.8\u00b0. The operating Reynolds number is 393,000. A moving \nend wal"
+  },
+  {
+    "pdf_name": "YanLiangDissertation.pdf",
+    "page_number": 125,
+    "chapter_title": "CHAPTER 7: CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27841/YanLiangDissertation.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "117 \nCHAPTER 7: CONCLUSIONS  \n \n7.1 Introduction \n \nSince its first commercial release in 1996, transgenic crops have witnessed both \nunprecedented rapid growth and hot debate on their economic, health and environmental \nimpacts. In 2005, 8.5 million farmers in 21 countries adopted transgenic crops. The \nglobal area of transgenic crops reached 90 million hectares. In the first decade of \ncommercial production of transgenic crops, the annual growth rate of transgenic crops \nwas maintained at a do"
+  },
+  {
+    "pdf_name": "Carrico_CA_D_2013.pdf",
+    "page_number": 178,
+    "chapter_title": "Chapter 5. Discussion and Conclusion",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/22028/Carrico_CA_D_2013.pdf",
+    "error_count": 4,
+    "total_models": 8,
+    "error_rate": 0.5,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "169 \n \nChapter 5. Discussion and Conclusion \n5. 1. \nIntroduction \nThe discussion contained in this chapter draws on my findings and the current literature \nto answer my overall dissertation research question. I discuss what I found in the data as well as \nwhat I did not find in the data, but expected to find, based on current literature. Based on my \nfindings, I include implications for both practice and research. My recommendations for practice \ninclude consideration for the Appalachian culture"
+  },
+  {
+    "pdf_name": "RVMacriDissertation.pdf",
+    "page_number": 255,
+    "chapter_title": "CHAPTER 6 \u2013 CONCLUSIONS AND FUTURE WORK",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/27831/RVMacriDissertation.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "237\nCHAPTER 6 \u2013 CONCLUSIONS AND FUTURE WORK \n6.1 \u2013 SUMMARY \nSynthesis of the target amphiphiles, 3CCbn and 3CCb1(n,n), was achieved in \ntwo steps from Weisocyanate\u2122 and the single or two-tailed symmetric alcohol, \nrespectively.  We have synthesized 10 new single-tail amphiphiles and precursors \n(3ECbn and 3CCbn series) and 12 new two-tail amphiphiles and precursors \n(3ECb1(n,n) and 3CCb1(n,n) series).  Synthesis of the 3CCb1(n,n) series was improved \nover that of the 3CCbn series by changing fro"
+  },
+  {
+    "pdf_name": "hopkinson_etd_2007.pdf",
+    "page_number": 125,
+    "chapter_title": "Chapter 5 - Summary and Conclusions",
+    "label": "CONCLUSION|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/30064/hopkinson_etd_2007.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5\nSummary and Conclusions\n5.1\nSummary and conclusions\nIn this work the failure of bilayer lipid membranes (BLMs) has been observed in\nseveral ways: mechanically, electrically, and optically. BLMs were formed in an electrolyte\nsolution over substrates with a single pore and substrates with an array of multiple pores,\nand were pressurized until failure. A custom test \ufb01xture was designed and fabricated so\nthat BLMs could be pressurized in very precise increments while measuring the applied\n"
+  },
+  {
+    "pdf_name": "Zheng_C_D_2015.pdf",
+    "page_number": 177,
+    "chapter_title": "Chapter 6 Conclusions and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/52893/Zheng_C_D_2015.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "163 \n \nChapter 6 Conclusions and Future Work \n6.1 Conclusions \nRecently, the concept of inductive power transmission has attracted a great \ndeal of interest in both academia and industry for its capability to make \ncharging easier for a lot of devices, from mobile phones to electric vehicles. The \nadvantages that an inductive power transfer system offers include \nconvenience, the lack of cable, no electric shock issue, capability to work under \nsome extreme environment, and so on. However, there"
+  },
+  {
+    "pdf_name": "Deramo_MC_D_2017.pdf",
+    "page_number": 194,
+    "chapter_title": "Chapter 8 Conclusion: Making a Home in a Country That is not Yours",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/76736/Deramo_MC_D_2017.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "182 \n \nChapter 8 \n \nConclusion: Making a Home in a Country That is not Yours \n \n \nIn the early hours of November 9th I am awakened by the ping of an incoming text \nmessage. It is from Nur, sent moments after Hilary Clinton conceded to Donald Trump:    \nHello michele looks like we are going back home to kakuma lol.  khadija is worried she \nwants to know if he is really sending us back? She even voted today. this is messed up i \nstill cant believe its real. \n \nI agree. It is messed up. I reply to "
+  },
+  {
+    "pdf_name": "Erwin_SH_D_2017.pdf",
+    "page_number": 128,
+    "chapter_title": "Chapter 6 Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/77026/Erwin_SH_D_2017.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 6\nConclusion\nMy expertise in immunological modeling converges with my experiences in the livestock industry\nin rural Kentucky. I spent a good portion of my adolescence on farms where I observed \ufb01rst-hand\nthe movement and mannerisms of livestock, primarily horses. I have had an incredibly reward-\ning career as a competitive equestrian, earning the title of National Champion in horsemanship\nat the 2011 Intercollegiate Horse Show Association National Championship. I have gone on to\ncompete "
+  },
+  {
+    "pdf_name": "Volk_DC_D_2017.pdf",
+    "page_number": 347,
+    "chapter_title": "Chapter 5 Conclusion: Reinventing Passing",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/78449/Volk_DC_D_2017.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "342 \n \nChapter 5 \nConclusion: Reinventing Passing \nThe intersectional passing model and the definition of each stage is worth another look in light of \nthe extensive analysis presented, so the model is constructed as follows:  \n \nThe Model: \n \n \n \nNormative Structure \nThe first stage in the intersectional passing model is the normative structure and how the \npasser is consciously aware of his or her place within said structure. The normative structure \nrepresents socially constructed categories "
+  },
+  {
+    "pdf_name": "Aleyao_B_D_2016.pdf",
+    "page_number": 106,
+    "chapter_title": "CHAPTER FIVE KEY FINDINGS AND CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/71862/Aleyao_B_D_2016.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "92\nCHAPTER FIVE \nKEY FINDINGS AND CONCLUSIONS \n \n5.1. Introduction \nThis final chapter is divided into four sections. The first part provides a summary of key \nfindings. The second portion outlines my conclusions. The third section offers various \nrecommendations to improve the policies that govern cross-sector partnerships in Togo. The \nfourth part suggests areas for future research.  \n5.2 Summary of Findings  \nThis study has investigated how the Togolese government and health-oriented NGOs are"
+  },
+  {
+    "pdf_name": "Gu_B_D_2014.pdf",
+    "page_number": 173,
+    "chapter_title": "Chapter 6 Conclusions and Future Works",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/25236/Gu_B_D_2014.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 6 Conclusions and Future Works \n6.1 Major results and contributions of this dissertation \nMicroinverter, which performs MPPT at the module level, is becoming an \nemerging force in the PV inverter market. Since today\u2019s PV modules normally \nhave an operating lifetime of 25 years, it would necessitate that the lifespan \nof a microinverter be long enough to match the lifetime of the PV module. A \nmajor source of concern in single-stage microinverters are the electrolytic \ncapacitors that hav"
+  },
+  {
+    "pdf_name": "finaletd.pdf",
+    "page_number": 162,
+    "chapter_title": "CHAPTER FIVE: CONCLUSION",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26119/finaletd.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "162 \n  \n \nCHAPTER FIVE: CONCLUSION \nIntroduction \nThis study provides a qualitative examination of ethnographic data to construct a \ndescription of community college students\u2019 experiences taking on-line courses.  In order \nto solicit data to provide a rich description of the experiences of community college \nstudents taking web-based offerings, the study focused on the research question, \"How do \ncommunity college students construct their on-line experiences?\u201d The specific research \nquestions ad"
+  },
+  {
+    "pdf_name": "silva.pdf",
+    "page_number": 214,
+    "chapter_title": "Chapter 6 Analysis, Conclusions, and Recommendations",
+    "label": "CONCLUSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/29287/silva.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "207 \nChapter 6   Analysis, Conclusions, and Recommendations \nIntroduction \nThe purpose of this study was to explore the nature of incidental learning in the \nworkplace.  This study was one of a few workplace studies that focused exclusively on incidental \nlearning, and it is the only study done using a phenomenological approach.  In addition, this \nresearch was the first to explore ways of knowing for incidental learners.  The study also \nexamined the impact of professional culture on incidental"
+  },
+  {
+    "pdf_name": "Brown_JMO_D_2010_f1.pdf",
+    "page_number": 78,
+    "chapter_title": "Chapter V: Discussion, Recommendations, and Conclusion",
+    "label": "CONCLUSION|DISCUSSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/26585/Brown_JMO_D_2010_f1.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "72 \n \nCHAPTER V:  DISCUSSION, RECOMMENDATIONS, AND CONCLUSION \n \nIntroduction \nTelecommuting is a significant workplace innovation and the ramifications of this \npractice have a broad range of potential impacts on other parties other than the telecommuter.  \nDespite the tremendous growth in telecommuting, relatively few empirical studies (Duxbury & \nNeufield, 1999; Golden, 2007; Watson-Fritz, Narasimhan, & Rhee, 1998) have directly \nexamined the creeping affect and effect of the telecommuting ch"
+  },
+  {
+    "pdf_name": "Romanus.Dissertation.pdf",
+    "page_number": 98,
+    "chapter_title": "Chapter 5: Limitations and Conclusions",
+    "label": "CONCLUSION|LIMITATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/28082/Romanus.Dissertation.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5 \nLimitations and Conclusions \n \n5.1 Limitations  \n \nWhile proper research procedures have been followed throughout the research process, \nevery study possesses some limitations.  As is the case with many studies employing various \nearnings quality metrics, there is a potential survivorship bias related to the number of years of \ndata required to estimate earnings quality.  The final sample is likely skewed towards larger, \nmore successful firms.  Additionally, requiring a minimum of tw"
+  },
+  {
+    "pdf_name": "SP_Dissertation.pdf",
+    "page_number": 104,
+    "chapter_title": "Chapter 7: Conclusions and Recommendations for Further Research",
+    "label": "CONCLUSION|FUTURE_WORK|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/28918/SP_Dissertation.pdf",
+    "error_count": 3,
+    "total_models": 8,
+    "error_rate": 0.375,
+    "models_with_error": [
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Page 93\nChapter 7: \nConclusions and Recommendations for \nFurther Research \n7.1 Dissertation Conclusions \nThe dissertation extended the state-of-the-art analysis of high emitting vehicles by quantifying their \nenvironmental impact at a network-level as opposed to temporal and spatial confined studies that are \nreported in the literature. The literature reports that 7% to 12% of HEVs account for somewhere between \n41% to 63% of the total CO emissions, and 10% are responsible for 47% to 65% of HC e"
+  },
+  {
+    "pdf_name": "Chen_Z_D_2013.pdf",
+    "page_number": 249,
+    "chapter_title": "Chapter 8 Conclusions and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/23923/Chen_Z_D_2013.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline"
+    ],
+    "content_500_chars": "231 \n \nChapter 8 \nConclusions and Future Work \n8.1 \nConclusions \nThis dissertation systematically studies the electrical integration technologies for \nSiC power modules to be used in high-power-density applications, where high-\ntemperature and/or high-frequency operations of devices are required. The main \nconclusions of the dissertation can be summarized in the following aspects. \n8.1.1 SiC MOSFETs for High-Temperature and/or High-Frequency Uses \nThe extensive static and switching characterizat"
+  },
+  {
+    "pdf_name": "Dissertation_Wan.pdf",
+    "page_number": 163,
+    "chapter_title": "Chapter 7 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28333/Dissertation_Wan.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline"
+    ],
+    "content_500_chars": "7.1 Summary and Conclusions \nChapter 7   Conclusions \n7.1 Summary and Conclusions \nThe objective of this research is to develop a leanness measure for manufacturing \nsystems that tells lean practitioners \u201chow lean their system is\u201d and \u201chow lean it should \nbe.\u201d Since the late 1990\u2019s, lean manufacturing has become one of the most popular \nimprovement strategies for manufacturing systems. The \u201cwaste elimination\u201d concept is \nsimple yet effective for manufacturing systems and various other settings. "
+  },
+  {
+    "pdf_name": "Resop_JP_D_2010.pdf",
+    "page_number": 106,
+    "chapter_title": "PhD Final Resop Chapter 5 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/38694/Resop_JP_D_2010.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline"
+    ],
+    "content_500_chars": "99 \n \n5.0 Conclusions and Future Research \n5.1 Conclusions \nTerrestrial Laser Scanning for Fluvial Applications \n \nTLS has been applied to two fluvial applications: monitoring streambank retreat and \nquantifying habitat complexity. These applications highlight the ability of TLS to provide \naccurate, precise measurements of topography for creating high-resolution DEMs. The main \nlimitations of this technology are its inability to measure underwater surfaces and the post-\nprocessing involved with"
+  },
+  {
+    "pdf_name": "Hunter_DN_D_2015.pdf",
+    "page_number": 96,
+    "chapter_title": "Chapter 5. Discussion and Conclusion",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/56569/Hunter_DN_D_2015.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline"
+    ],
+    "content_500_chars": "86 \n \n \nDiscussion and Conclusion \n5.1 \nIntroduction  \nThe purpose of this dissertation study was to use the Innovation Cycle of Educational Practice and Research \n(ICEPR) as a lens to investigate the challenges with facilitation practices in introductory PBL engineering \ncourses (Jamieson & Lohmann, 2009), and to develop a pragmatic research-based model that provides \ninsights aimed at improving PBL facilitation practices. In order to achieve this purpose I answered the \nfollowing research ques"
+  },
+  {
+    "pdf_name": "MelindaMcPhersonETD.pdf",
+    "page_number": 211,
+    "chapter_title": "Chapter 6 Conclusions and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/26793/MelindaMcPhersonETD.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 6 \n \nConclusions and Future Work \n6.1. Conclusions \n \nA primary objective of the research presented here was the design and synthesis \nof model urethane-containing surfaces.  The fundamental goal of this project was to \ncreate well-ordered self assembled monolayers (SAMs) that contained controlled \nconcentrations of intrachain carbamate linkages at specified positions within the thin \nfilm.  The data presented in Chapter 3 reveal that isocyanate chemistry can be used to \ncreate SAMs that"
+  },
+  {
+    "pdf_name": "thesis.pdf",
+    "page_number": 153,
+    "chapter_title": "CHAPTER 4. CONCLUSIONS AND FUTURE WORK",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/29153/thesis.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "141\nCHAPTER 4.  CONCLUSIONS AND FUTURE WORK\n4.1. \nConclusions\nThe objectives of the current research, as stated in Section 1.7, have been achieved.\nThese objectives were\n5) to model mechanical filters subjected to shock loading;\n6) to study longitudinal wave propagation through viscoelastic bars;\n7) to develop single and multiple ADF axisymmetric and plane stress finite elements;\nand\n8) to determine material moduli frequency dependence using Hopkinson bar\nexperiments and ADF model curve-fitting\n"
+  },
+  {
+    "pdf_name": "Wang_C_D_2013.pdf",
+    "page_number": 161,
+    "chapter_title": "Chapter 6. Conclusions and recommendatio",
+    "label": "CONCLUSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/52036/Wang_C_D_2013.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "146 \n \nChapter 6. Conclusions and recommendations \n6.1 \nConclusion \nThis research evaluated FTW behavior and its nutrient removal performance in urban \nponds through three study topics. First, data were collected from published literature to develop \nan assessment model, the i-FTW model, using first order kinetics. The i-FTW model simulates \nthe changes of TP and TN concentration in an FTW system with respect to variation in design \nparameters, such as retention time and FTW coverage size. FTW p"
+  },
+  {
+    "pdf_name": "SalzeDissertation.pdf",
+    "page_number": 225,
+    "chapter_title": "Chapter XI. General conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29655/SalzeDissertation.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter\u00a0XI. \nG E N E R A L \u00a0\nC O N C L U S I O N S\u00a0\n\u00a0\nThis\u00a0dissertation\u00a0represents\u00a0two\u2010and\u2010a\u2010half\u00a0years\u00a0of\u00a0research,\u00a0directed\u00a0by\u00a0three\u00a0major\u00a0\nthemes:\u00a0larval\u00a0development,\u00a0alternative\u00a0sources\u00a0of\u00a0dietary\u00a0proteins\u00a0and\u00a0lipids,\u00a0and\u00a0gene\u00a0\nexpression\u00a0in\u00a0response\u00a0to\u00a0nutrition.\u00a0\n\u00a0\nLARVAL\u00a0DEVELOPMENT\u00a0\nThe\u00a0larval\u00a0development\u00a0of\u00a0cobia\u00a0was\u00a0extensively\u00a0studied\u00a0in\u00a0the\u00a0first\u00a0chapters,\u00a0from\u00a0external\u00a0\nand\u00a0internal,\u00a0morphological\u00a0and\u00a0physiological,\u00a0digestive\u00a0and\u00a0sensory\u00a0points\u00a0of\u00a0view.\u00a0During\u00a0fish\u00a0\nlarval\u00a0developme"
+  },
+  {
+    "pdf_name": "ZHANG_C_D_2012.pdf",
+    "page_number": 159,
+    "chapter_title": "Chapter 5_conclusion_5_4 kjb comments",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/37788/ZHANG_C_D_2012.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5 \nConclusion \n \nThis dissertation focuses on the methodology and applications of the hedonic price \nmodel, which is widely used to estimate implicit values for changes in environmental \nquality. The dissertation consists of three novel essays.  The first essay is a \u201ctraditional\u201d \nhedonic-price model where the 1st stage price function is estimated with a cross-sectional \ndataset. The novel aspect of this research is the property-specific data that is used to \ninvestigate price impacts on"
+  },
+  {
+    "pdf_name": "TBSdiss.pdf",
+    "page_number": 244,
+    "chapter_title": "Chapter 8 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/11204/TBSdiss.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3"
+    ],
+    "content_500_chars": "234 \nChapter 8 \n \nConclusions \n \nRelationships within the Malacothamnus alliance were examined through molecular, \nmorphological and garden studies.  Sequences from one nuclear (ITS) and two chloroplast (rpL16 and \ntrnL-F) regions confirmed that Iliamna, Malacothamnus, and Phymosia are closely related and can \nloosely be grouped as the Malacothamnus alliance.  The Malacothamnus alliance is nested within the \ntribe Malveae and is closely related to other North American members of the tribe survey"
+  },
+  {
+    "pdf_name": "LukeAMartin_Dissertation20110506.pdf",
+    "page_number": 92,
+    "chapter_title": "a07_Chapter_5_conclusions_20110410",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26891/LukeAMartin_Dissertation20110506.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "79 \n \nChapter 5 \n \nConclusions and Future Work \n \n \n5.1 Summary and Conclusions  \n \nThis dissertation introduces a novel material modulus function used to model \nviscoelastic material during dynamic loading.  Recall that in metals the stress-strain \nrelationship is generally modeled as occurring at the same time \u2013 that is, with no phase \ndelay.  This stress-strain relationship in one-dimensional space is modeled with a \nproportionality constant known as the modulus of elasticity.  Hooke\u2019s Law gi"
+  },
+  {
+    "pdf_name": "Ngoyi_L_D_2013.pdf",
+    "page_number": 103,
+    "chapter_title": "Chapter 5: Summary, Conclusions, Discussion, and Recommendations",
+    "label": "CONCLUSION|DISCUSSION|RECOMMENDATIONS|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/50619/Ngoyi_L_D_2013.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "88 \n \nChapter 5: Summary, Conclusions, Discussion, and Recommendations \nThe purpose of this chapter is to present the conclusions, discussion, and \nrecommendation of the study.  In order to provide the context for the chapter, in the first two \nsections the researcher gives a summary of the study as well as the research questions and the \nmethodology that was used.  \nSummary of the Study \nStatement of the Problem   \nBecause of the severe inadequacies of training laboratories in Zambian schools a"
+  },
+  {
+    "pdf_name": "Enget_KA_D_2015.pdf",
+    "page_number": 110,
+    "chapter_title": "Chapter 5: Discussion and Conclusion",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/74271/Enget_KA_D_2015.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "98 \n \n \n \nCHAPTER 5: DISCUSSION AND CONCLUSION \nThe final chapter focuses on four main areas. In the first three sections, I answer the \nresearch questions within the context of the results presented in Chapter 4. In section 5.4, I \npresent the contributions of the study. Finally, I close with limitations and future research in \nsection 5.5.  \n5.1 How do Indicators of Fraud Detection Proficiency Impact an Individual\u2019s Ability to \nAdequately Assess Fraud Risk and Modify Audit Plans? \n5.1.1 Fraud "
+  },
+  {
+    "pdf_name": "MacAuley_LE_D_2017.pdf",
+    "page_number": 250,
+    "chapter_title": "CHAPTER 6: DISCUSSION/CONCLUSION",
+    "label": "DISCUSSION|CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/80966/MacAuley_LE_D_2017.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "236 \n \nCHAPTER 6: DISCUSSION/CONCLUSION \nIntroduction \nThis chapter discusses the objects of on-farm apprenticeship activity, and three main \nthreads of implications for on-farm apprenticeship of the findings of this study: (1) how inequity \nmay be (re)produced through socioperformative identification processes involving race and \nclass, (2) the ways in which tensions between productivism and noncapitalistic \ncommunitarianism are creating a third, noncapitalistic space, and (3) how sociomaterial"
+  },
+  {
+    "pdf_name": "Swint_EB_D_2012.pdf",
+    "page_number": 86,
+    "chapter_title": "Chapter 6: Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27717/Swint_EB_D_2012.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 6: Conclusions\n6.1\nSummary\nIn this dissertation, methods have been proposed for reducing torque ripple and source \ncurrent ripple in Doubly-Salient Reluctance Machines (DSRMs) to produce a DC Reluctance \nMachine, or DCRM. The need for such a machine has been cited by industry and academia, but \napproaches up to this point have taken a reductionist approach, considering only machine \ngeometry or excitation strategy, only torque ripple or dc link current ripple. \nThe perturbation method pr"
+  },
+  {
+    "pdf_name": "flake_drying.pdf",
+    "page_number": 147,
+    "chapter_title": "CHAPTER 6. CONCLUSIONS AND RECOMMENDATIONS",
+    "label": "CONCLUSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/28452/flake_drying.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "CHAPTER 6.  CONCLUSIONS AND RECOMMENDATIONS\n6.1.\nConclusions\nBased on regression analysis, flake drying curve is accurately represented by a\nsecond-order/quadratic model.  By differentiating this equation, the drying rate can be\ncalculated.  This gives the advantage of analyzing the data with the use of a single\nequation rather than performing linear regression analysis of data at different moisture\ncontent intervals to get the slope thus, the drying rate.\nObservations on the drying and drying r"
+  },
+  {
+    "pdf_name": "Atlayan_O_D_2013.pdf",
+    "page_number": 171,
+    "chapter_title": "CHAPTER 7: SUMMARY and CONCLUSION",
+    "label": "CONCLUSION|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/50562/Atlayan_O_D_2013.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "150 \n \nCHAPTER 7: \nSUMMARY and CONCLUSION  \n7.1. \nResearch Summary \nThis research introduces two new structural steel systems: hybrid Buckling Restrained Braced Frames \n(BRBF) and hybrid steel Moment Frames (MF). In this study, the hybrid term for the BRBFs comes from \nthe use of different steel material including carbon steel (A36), high-performance steel (HPS) and low \nyield point (LYP) steel. The hybridity of the moment frames is related to the changes in the plastification \nof the systems wh"
+  },
+  {
+    "pdf_name": "Borjigin_H_D_2015.pdf",
+    "page_number": 168,
+    "chapter_title": "Chapter 5. Conclusion and Recommended Future Research",
+    "label": "CONCLUSION|FUTURE_WORK|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/74231/Borjigin_H_D_2015.pdf",
+    "error_count": 2,
+    "total_models": 8,
+    "error_rate": 0.25,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter 5.  Conclusion and Recommended Future Research \n \n \n5.1. Conclusion for High Performance Polymers for Gas Separation \nMembrane Research  \n \nResults from this dissertation have defined some important structure-property \nrelationships for high performance polymer membrane gas separations. Polyimides, TR \npolybenzoxazoles and polybenzimidazoles were synthesized and investigated. \nRelationships among meta/para isomer effect with gas transport property, polymer \nbackbone structures with gas t"
+  },
+  {
+    "pdf_name": "Karpin_GW_D_2017.pdf",
+    "page_number": 89,
+    "chapter_title": "5. Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/79414/Karpin_GW_D_2017.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama33Results_stage2_3"
+    ],
+    "content_500_chars": "82 \n5. \nConclusions \n \nA number of organometallic half sandwich complexes (Cp*R)M(L)X, where L is an amino-\nacid (aa) or an ethylenediamine (en) and (X) is either Cl or I, were synthesized. The synthesis to \nproduce each of the complexes (Figure 5.1) was successfully utilized with several different metal \ncenters. The synthesis of the transition metal precursor [(Cp*R)2M2X4] used was successful in \nserving as a general scaffold to tailor more than 50 complexes.  Each of these complexes were \ncom"
+  },
+  {
+    "pdf_name": "MokaremDissertation.pdf",
+    "page_number": 116,
+    "chapter_title": "CHAPTER 7: CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27605/MokaremDissertation.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama4ScoutResults_full_pipeline"
+    ],
+    "content_500_chars": "105\nCHAPTER 7: CONCLUSIONS \n \n1. \nThe portland cement concrete mixtures containing diabase as the aggregate consistently \nexhibited greater drying shrinkage than the mixtures containing limestone and gravel as \nthe aggregate. \n \n2. \nThe type of aggregate used in a mixture had an influence on the drying shrinkage of the \nmixture. \n \n3. \nThe mixtures containing fly ash exhibited greater drying shrinkage than those containing \nmicrosilica and slag cement. \n \n4. \nThere is a correlation between the p"
+  },
+  {
+    "pdf_name": "Ray_PP_D_2012.pdf",
+    "page_number": 135,
+    "chapter_title": "Chapter 6 CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27737/Ray_PP_D_2012.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama4ScoutResults_full_pipeline"
+    ],
+    "content_500_chars": "124 \n \nChapter 6 CONCLUSIONS \nThe method developed to quantify phytate in ruminant digesta and feces included \nalkaline extraction, extract clean-up, and HPIC quantification. Of four different extractants (0.5 \nM HCl, 1 M HCl, 0.25 M NaOH-0.05 M EDTA, 0.5 M HCl followed by 0.25 M NaOH-0.05 M \nEDTA) evaluated for their P extraction efficiency, and 0.25 M NaOH-0.05 M EDTA is the best \nuniversal extractant for feed, digesta, and feces. All the extractants were efficient in extracting P \nfrom omasal"
+  },
+  {
+    "pdf_name": "SkaradzinskiNonlinearBehaviorofStockPrices.pdf",
+    "page_number": 48,
+    "chapter_title": "CHAPTER V: CONCLUSION AND FURTHER STUDY",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/11079/SkaradzinskiNonlinearBehaviorofStockPrices.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3"
+    ],
+    "content_500_chars": "40 \nCHAPTER V:  CONCLUSION AND FURTHER STUDY \nV. A. Summary of Results \n \n \nThere is a notable difference in the average level (and other measures of central location, \nthe median and the mode) and significant incidence of nonlinearity between portfolios of large-\ncap, mid-cap, and small-cap stocks.  Even though all three portfolios show a marked increase in \nboth the level and incidence of nonlinearity across the time period measured, this difference \npersists throughout the decade.  There is a"
+  },
+  {
+    "pdf_name": "Dissertation_Xiaohai_Wang.pdf",
+    "page_number": 113,
+    "chapter_title": "Chapter 5 Conclusions and discussions",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29105/Dissertation_Xiaohai_Wang.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3"
+    ],
+    "content_500_chars": "103 \nChapter 5 \n5 Conclusions and discussions \n \nBased on the stereological analyses and numerical simulation results of sampling \nfractures by a line, a plane, and most important, cylindrical surfaces, the following \nconclusions are drawn: \n1. For linear sampling in constant sized or unbounded fractures with orientation \ngiven by the Fisher distribution, the conversion factor C13 [1.0, \u221e] between the \nfracture linear intensity and the volumetric intensity is a function of the angle \nbetween the"
+  },
+  {
+    "pdf_name": "Li_XP_D_2009.pdf",
+    "page_number": 138,
+    "chapter_title": "CHAPTER V DISCUSSION AND CONCLUSIONS",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29236/Li_XP_D_2009.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3"
+    ],
+    "content_500_chars": "127\nCHAPTER V \n \nDISCUSSION AND CONCLUSIONS \n \n5.1 \nINTRODUCTION \n  \nThis chapter presents the summary, discussion and implications of the findings of the \nstudy. In the first section of the chapter, a summary and discussion of the hypotheses testing \nare presented. The managerial and theoretical implications of the findings, followed by the \nlimitation of the study, are discussed next. Finally, the chapter concludes with suggestions for \nfuture research. \n \n \n5.2 \nSUMMARY OF THE FINDINGS  \n \nTh"
+  },
+  {
+    "pdf_name": "Byers_AS_D_2010.pdf",
+    "page_number": 120,
+    "chapter_title": "Chapter 5: Discussions, Summary, Conclusions, and Implications",
+    "label": "CONCLUSION|DISCUSSION|IMPLICATIONS|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/40430/Byers_AS_D_2010.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 5: Discussions, Summary, Conclusions, and Implications \nThis chapter shares the overall contributions of this study, presents a discussion and \nsummary findings, and closes with conclusions and implications for future research.  \nStudy Contributions \nThis study was conducted to explore elementary teacher preferences for and perceptions \nof self-directed electronic professional development for a nonrandomized judgment sample of 85 \nteachers in grades three \u2013 six who completed and passed 1"
+  },
+  {
+    "pdf_name": "WCC_Dissertation.pdf",
+    "page_number": 117,
+    "chapter_title": "Chapter 6. Discussion and Conclusion",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26152/WCC_Dissertation.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "105\nChapter 6  \n \nDiscussion and Conclusion \n \nPower lines are ubiquitous and an essential part of our every day lives. The concept \nof power line communications was introduced in patents in the 1920\u2019s, and since then there \nhas been much research activity on power line communications. Recently in the 2000\u2019s, \npower line communications has been revived for broadband network service over power \nlines. Power line communications has a fundamental benefit of \u201cno new wires,\u201d but at the \nsame time it "
+  },
+  {
+    "pdf_name": "Diffusion_Innovation.pdf",
+    "page_number": 80,
+    "chapter_title": "Chapter Five: Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29913/Diffusion_Innovation.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "Chapter Five:  Conclusion \n \nIntroduction \n \n \nThe research presented in this study examined how teachers integrated computer \ntechnology and the extent to which collaborative efforts influenced the integration efforts from \nthe perspective of the teachers who were adopting the innovation.  This chapter contains a \nsummary of the findings, conclusions, limitations, and suggestions for future research based on \nthis study.  \n \nSummary \n \nComputer Integration \n \n \nThe first question asked how did "
+  },
+  {
+    "pdf_name": "Hearn_CW_D_2012.pdf",
+    "page_number": 126,
+    "chapter_title": "8 Chapter - Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/49554/Hearn_CW_D_2012.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "llama3.18bResults_full_pipeline"
+    ],
+    "content_500_chars": "115 \n \n8 Chapter - Conclusions \n8.1 Summary \nA review of small antenna research was presented in Chapters 1 and 2. Chapter 2 reviewed the \nrelation of antenna quality factor to the volume and height for radiating elements that easily fit \nwithin a radiansphere. Also discussed was the oscillatory relation of antenna impedance to the \nfinite ground plane dimensions. Published work relating resonant length monopoles to finite \nground planes was extended to consider the impedance characteristics of "
+  },
+  {
+    "pdf_name": "DISSERTATION_JungHunChoi_Final_Submission022406.pdf",
+    "page_number": 132,
+    "chapter_title": "8 Concluding Remarks",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26218/DISSERTATION_JungHunChoi_Final_Submission022406.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "121\n8 Concluding Remarks \n \nWe investigated a minimally invasive endoscope with a flexible stem and \nstiffenable stem. A summary for the important accomplishment of each chapter is \ndescribed and the future works are suggested. \n \n \n8.1 Summary \n \n\u2022 We analyzed the mechanical properties of a descending colon. We found the \ndamage level of the colon wall with various sizes of end-tools to help the field of \nendoscopy. \n \n\u2022 The cable force analysis and the closed form solution of the friction coef"
+  },
+  {
+    "pdf_name": "Butler_WM_D_2012.pdf",
+    "page_number": 145,
+    "chapter_title": "Chapter 5: Discussion and Conclusions",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27601/Butler_WM_D_2012.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "131 \n \nChapter 5: Discussion and Conclusions \nWhat is the meaning of the choices the students and the professionals made and what can \nwe conclude about the LSBL approach based on this implementation? Subsections 5.1 through \n5.6 present a discussion of the results presented in Chapter 4 aligned with the research questions.  \nA brief summary of the responses is provided along with a restating of the research question for \neach section. Subsection 5.7 discusses limitations of this study. Subsecti"
+  },
+  {
+    "pdf_name": "MatthewCashionDissertation.pdf",
+    "page_number": 225,
+    "chapter_title": "Chapter 9 Overall Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27714/MatthewCashionDissertation.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 9: Overall Conclusions \n \nThe synthesis and characterization of photo-reactive low molar mass surfactants \nand macromolecules was described.  First, the micellar morphology of gemini surfactant, \n12-2-12, was investigated to fundamentally understand the solution properties of \nammonium gemini surfactants.  The solution microstructure in water and water:methanol \nwas characterized with cryo-TEM and solution rheology.  The cosolvent mixture of \nwater:methanol was investigated to explore th"
+  },
+  {
+    "pdf_name": "ElkinsDissertation2.pdf",
+    "page_number": 306,
+    "chapter_title": "Chapter 9 Overall Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28008/ElkinsDissertation2.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "Chapter 9  Overall Conclusions \n \nLiving anionic polymerization coupled with functional initiation was used to \nsynthesize various monomers in an effort to yield well-defined chain end functional \nmacromolecules.  Nucleophilic dhain end functionality provides the ability to introduce \nmyriad functionalities in a number of architectures.  Specifically, D3 was polymerized \nusing \nboth \n3-[(N-benzyl-N-methyl)amino]-1-propyllithium \nand \n3-(t-\nbutyldimethylsilyloxy)-1-propyllithium to yield amine an"
+  },
+  {
+    "pdf_name": "Wu_T_D_2012.pdf",
+    "page_number": 211,
+    "chapter_title": "Chapter 8 Overall Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/39332/Wu_T_D_2012.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "187\nChapter 8 Overall Conclusions \nZwitterions are unique functionalities that exhibit strong inter- and intra-\nmolecular electrostatic interactions. Earlier literature focused on their potential in \nthermoplastic elastomers, while recent research efforts aimed at harnessing their \nstructural similarities to phospholipids that exhibit anti-fouling characteristics. In this \ndissertation, we successfully designed and synthesized 2-[butyl(dimethyl)amino]ethyl \nmethacrylate methanesulfonate (BDMAEMA"
+  },
+  {
+    "pdf_name": "Herman_DJ_D_2015.pdf",
+    "page_number": 119,
+    "chapter_title": "Chapter 8: Conclusions, Contributions, and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/51566/Herman_DJ_D_2015.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_stage2_3"
+    ],
+    "content_500_chars": "110 \nChapter 8: Conclusions, Contributions, and Future Work \n \n8.1 Conclusions \nThe work in this dissertation focuses on the relationship between the stability of \nmicroparticle suspensions and how it is affected by the presence and adsorption of highly \ncharged nanoparticles in a bidisperse system. The major conclusions are presented in the \nfollowing: \n1. Dispersions of weakly charged microparticles can be stabilized by the addition of highly \ncharged nanoparticles, with the nanoparticles prov"
+  },
+  {
+    "pdf_name": "Hyder_Z_D_2012.pdf",
+    "page_number": 200,
+    "chapter_title": "Chapter 9 - Research Conclusions and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/28970/Hyder_Z_D_2012.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "177 \nChapter 9 - Research Conclusions and Future Work \n \n9.1 \n Research Conclusions \nUnderground coal gasification has the potential to harness energy from low grade, deep \nseated, steeply inclined and thin coal seams in an economic, environmentally friendly and \nsustainable manner. This technology can be applied to abandoned coal mines, remnants of \nexploited reserves and deposits considered uneconomic and technically difficult for \nconventional mining methods. Commercial utilization of this te"
+  },
+  {
+    "pdf_name": "dissertation_zhongyan.pdf",
+    "page_number": 211,
+    "chapter_title": "Chapter 8. Conclusions and Recommendations",
+    "label": "CONCLUSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/37186/dissertation_zhongyan.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "192\nChapter 8. Conclusions and Recommendations \n8.1 Summary of Objectives Attained \nThis research forms a part of an ongoing study to perform continuous improvements to \nthe Occoquan model. The principal goal of the Occoquan model project is to develop and \napply the best possible model science to improve modeling of the Occoquan watershed \nand associated waterbodies. \nThe principal goals of this research were to develop, calibrate and validate a complex \nlinked model to simulate hydrology and w"
+  },
+  {
+    "pdf_name": "Sen_S_D_2011.pdf",
+    "page_number": 133,
+    "chapter_title": "Chapter 7 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/38737/Sen_S_D_2011.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "119 \n \n \n \nChapter 7 Conclusions \nThere is a vast land resource base that has been mined and reclaimed in Appalachian \nUSA under the federal mine reclamation law. More than 600,000 hectares of coal-mined \nlands (Zipper et al. 2011b), an area equivalent to approximately 4 percent of the entire \nAppalachian coalfield, have been reclaimed in Appalachia since the federal mine \nreclamation law was established in 1977.  Recently, reclamation practices intended to re-\nestablish native forest have come "
+  },
+  {
+    "pdf_name": "Kumar_S_D_2012.pdf",
+    "page_number": 158,
+    "chapter_title": "Chapter 6. Summary, Conclusions and Recommendations",
+    "label": "CONCLUSION|RECOMMENDATIONS|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/49399/Kumar_S_D_2012.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "144 \n \n \nChapter 6. Summary, Conclusions and Recommendations \n6.1 \nSummary \nIn the past few decades, an increased emphasis has been placed on stakeholder participation in \nmany aspects of environmental policy development. Proliferation of public participation schemes \nas a component in most environmental projects (EC, 2012; USEPA, 2000, 2001), and the \nincrease in adoption of a \u201cwatershed-approach\u201d to address waterbody management (USEPA, \n1996, 2008a), illustrate this phenomenon of increasing pa"
+  },
+  {
+    "pdf_name": "Guevara_VE_D_2017.pdf",
+    "page_number": 230,
+    "chapter_title": "Chapter 6. Concluding Remarks",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/77915/Guevara_VE_D_2017.pdf",
+    "error_count": 1,
+    "total_models": 8,
+    "error_rate": 0.125,
+    "models_with_error": [
+      "mistralsmallResults_full_pipeline"
+    ],
+    "content_500_chars": "219 \nChapter 6. Concluding Remarks \n6.1 SUMMARY \nThe research in this dissertation explores two broad themes: 1) novel approaches to \napplying petrologic and geochronologic techniques for \u2018reading\u2019 HT/UHT metamorphic rocks \nand reconstructing their P\u2013T\u2013t histories, and 2) reconstruction and quantification of the P\u2013T\u2013t \npaths of granulites, with particular emphasis on rocks from two Neoarchean terranes. The study \nin Chapter 2 presented a novel approach to phase equilibria modelling of a textural"
+  }
+]

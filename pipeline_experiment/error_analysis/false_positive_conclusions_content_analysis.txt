@@ -1,0 +1,498 @@
+====================================================================================================\nFALSE_POSITIVE PAGES - CONTENT ANALYSIS\nPages with false_positive sorted by frequency across models\n====================================================================================================\n\n================================================================================\nFALSE_POSITIVE PAGE #1\nPDF: MSankirPhDDissertation.pdf - Page: 305\n================================================================================\nChapter Title: Chapter8Suggested Future Research.pdf\nGround Truth Label: FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n286
+ 
+ 
+CHAPTER 8 
+ 
+Suggested Future Research 
+ 
+The disulfonated polysulfone copolymers always resulted in with lower 
+fuel/oxidant permeability compare to Nafion™.   However, the large water dependence 
+of the proton conductivity of copolymers makes these membranes limited at higher 
+temperature applications.  Our group and others are blending these copolymers with 
+inorganic proton conductors to produce reasonable proton conductivity at higher 
+temperatures.  Additionally, next generation co\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #2\nPDF: DISSERTATION_FINAL_JDW.pdf - Page: 136\n================================================================================\nChapter Title: Chapter 8: Summary & Directions for Future Research\nGround Truth Label: SUMMARY|FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n123
+Chapter 8: SUMMARY & DIRECTIONS FOR FUTURE RESEARCH 
+ 
+Summary 
+ 
+Although some in Japan cling to beliefs of a pure ethnogenesis, one that emanates out 
+of the creation of Japan as an “…unbroken line of descent of emperors to the sun 
+goddess Amaterasu that gave Japan its innate superiority,” others visualize a more 
+interconnected ethnogenesis (Hudson, 1999 p.24).  Long before contemporary 
+“scientific” analyses, these stories of Japanese culture were described in the Kojiki (AD 
+712) and N\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #3\nPDF: Amara_dissertation.pdf - Page: 161\n================================================================================\nChapter Title: Chapter 6. RECOMMENDATIONS\nGround Truth Label: RECOMMENDATIONS\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 6. Recommendations 
+147 
+Amara Loulizi 
+Chapter 6. RECOMMENDATIONS 
+  
+Based on the findings of the present study, the following recommendations are made: 
+• 
+The effects of overlays on the air-coupled and ground-coupled GPR system 
+waveforms need to be studied. 
+• 
+The effect of debonding between the concrete and the HMA overlay on the GPR 
+signals may need to be investigated. 
+• 
+A database of the complex dielectric constant of base materials at different moisture 
+contents needs to be\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #4\nPDF: dissertation_fong.pdf - Page: 130\n================================================================================\nChapter Title: Chapter 8 Future Research\nGround Truth Label: FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 8 Future Research 
+N.H. Ben Fong 
+Chapter 8 Future Research 
+ 
+ 
+In studying classical control theory, a mathematical model of a dynamic system is defined as a 
+set of equations that adequately predicts the behavior of a system to a set of known inputs 
+[40,51,52,53,54]. A system may be represented in many different ways of mathematical models, 
+depending on one’s perspective. Whether the systems are mechanical, electrical, fluid, thermal, 
+economic, or even biological, may be described \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #5\nPDF: MokaremDissertation.pdf - Page: 118\n================================================================================\nChapter Title: CHAPTER 8: RECOMMENDATIONS\nGround Truth Label: RECOMMENDATIONS\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n107
+CHAPTER 8: RECOMMENDATIONS 
+ 
+1. 
+The unrestrained shrinkage test method, ASTM C 157, may be used as a performance 
+based specification for restrained concrete systems for concrete mixtures purchased by 
+the Virginia Department of Transportation. 
+ 
+2. 
+The percentage length change should be limited to 0.0300 at 28 days and 0.0400 at 90 
+days for portland cement concrete mixtures, and 0.0400 at 28 days and 0.0500 at 90 days 
+for supplemental cementitious material mixtures purchased by the Vi\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #6\nPDF: SullivanDissertation.pdf - Page: 140\n================================================================================\nChapter Title: CHAPTER 5: SUMMARY AND DISCUSSION\nGround Truth Label: DISCUSSION|SUMMARY\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 5: SUMMARY AND DISCUSSION 
+ 
+With the No Child Left Behind Act’s (NCLB’s) increased emphasis on the subjects of math, 
+science, and English/reading, some educators voiced concerns about the de-emphasis of 
+instruction in other areas like art, music, physical education, and computer/technology 
+(Chapman, 2005).  In the case of computer/technology in Virginia, this fear of a de-emphasis of 
+the content was ostensibly justified as the Standards of Learning assessments for 
+computer/technolo\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #7\nPDF: Onefilegood.pdf - Page: 131\n================================================================================\nChapter Title: Chapter VII: SUMMARY\nGround Truth Label: SUMMARY\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter VII: SUMMARY 
+The purpose of this series of studies had two goals.   First, to identify 
+means of reducing the time required for subterranean termites to discover 
+commercial bait stations.  Second, to identify strategies for reducing the 
+likelihood that subterranean termites would desert a commercial bait station once 
+it had been discovered.   
+Only one of the strategies investigated in this group of experiments 
+appears to hold some promise for reducing the time required for subterra\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #8\nPDF: dissertation.pdf - Page: 147\n================================================================================\nChapter Title: Chapter 6 Future Research\nGround Truth Label: FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n134
+Chapter 6 
+Future Research 
+ 
+A non-homogeneous process provides a more realistic model for repairable system 
+behavior than traditional models where a repair is assumed to be either perfect or 
+minimal. In this dissertation, we construct a quasi-renewal process model with an age-
+dependent policy and provide the expressions for the quasi-renewal function and the 
+point availability function. There are other non-stationary processes such as Kijima’s 
+virtual age models [21] that can be used \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #9\nPDF: Layman.Dissertation_Finalc.pdf - Page: 298\n================================================================================\nChapter Title: Chapter 13. Suggested Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 13. Suggested Future Work 
+13.1 Determine the influence of molecular weight on gene transfection 
+using other cationic polymers. 
+Although PDMAEMA serves as a good model system for the determination of 
+structure-transfection relationships, its transfection efficiency is lower when compared to 
+other polycationic delivery systems.  Therefore, the influence of molecular weight using 
+more clinically relevant polymers should be investigated.  Poly(ethylene imine) would be 
+the next logical\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #10\nPDF: Disser99.pdf - Page: 259\n================================================================================\nChapter Title: CHAPTER 9. RECOMMENDATIONS FOR FUTURE WORK\nGround Truth Label: FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 9. RECOMMENDATIONS FOR FUTURE WORK
+Many inorganic-organic hybrid materials have been derived from sol-gel reactions of
+binary systems such as the f-DETA/TMOS systems and demonstrated excellent abrasion
+resistance. A next desirable step would be to scale up one or more of these systems to meet the
+requirements of various industrial coating requirements. Currently, these coatings may be
+applied as protective coatings for polymer lenses and glazing materials for buildings and
+automobiles. T\n--------------------------------------------------\n\n\n####################################################################################################\n# PAGES 1-10 COMPLETE - CONTINUING...\n####################################################################################################\n\n================================================================================\nFALSE_POSITIVE PAGE #11\nPDF: Taheriandani_M_D_2016.pdf - Page: 152\n================================================================================\nChapter Title: Chapter 10 Summary and Recommendations\nGround Truth Label: SUMMARY|RECOMMENDATIONS\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n138 
+ 
+ 
+Chapter 10 Summary and Recommendations 
+10.1 Summary  
+The applicability of non-contact, optical fiber Light Detection And Ranging (LIDAR) 
+technology for measuring track speed, curvature, and track geometry irregularities (lateral 
+and vertical rail geometry variations) with high accuracy has been evaluated, using extensive 
+tests onboard a track geometry car.  The LIDAR system was configured to measure track 
+speed and profile using a set of two lenses, while evaluating lateral track \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #12\nPDF: Han_Y_D_2016.pdf - Page: 95\n================================================================================\nChapter Title: CHAPTER 6: FUTURE WORK\nGround Truth Label: FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 6: FUTURE WORK 
+In an effort to reduce the negative impact of buildings on energy use, health, and the environment, 
+my research interests lie at the intersection of an holistic understanding of sustainable building 
+networks and methodologies to reduce energy consumption at the inter-building level. The goal of 
+my doctoral research is to advance our understanding of urban building networks thermal-energy 
+dynamics to achieve sustainable energy conservation in the built environment. Con\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #13\nPDF: Bowden_ZE_D_2016.pdf - Page: 112\n================================================================================\nChapter Title: Chapter 5: Summary and Directions for Future Research\nGround Truth Label: SUMMARY|FUTURE_WORK\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 5: Summary and Directions for Future Research\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #14\nPDF: Munger_ZW_D_2016.pdf - Page: 137\n================================================================================\nChapter Title: CHAPTER 5. DISSERTATION SUMMARY AND FUTURE RESEARCH\nGround Truth Label: FUTURE_WORK|SUMMARY\nError Rate: 100.0% (8/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n121
+CHAPTER 5. DISSERTATION SUMMARY AND FUTURE RESEARCH 
+Controlling Fe and Mn in surface water supplies is a serious challenge for water 
+utilities because of their widespread distribution in watershed sediments and the 
+difficulties in preventing conditions favorable for their ingress to surface waters. 
+Hydrologic factors, such as precipitation and streamflow, are particularly important for 
+the transport of Fe and Mn from the watershed into the water bodies (i.e., rivers, lakes, 
+and reservo\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #15\nPDF: MatthewCashionDissertation.pdf - Page: 232\n================================================================================\nChapter Title: Chapter 10. Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 87.5% (7/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_stage2_3\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 10: Suggested Future Work 
+ 
+10.1 Photopolymerizable Gemini Surfactant Lyotropic Liquid Crystals 
+ 
+Explore the lyotropic liquid crystalline (LLC) behavior of photopolymerizable 
+Acry-2-Acry and Cinn-2-Cinn gemini surfactants in water.  Gin and coworkers1 
+synthesized a phosphonium gemini surfactant with diene groups at the terminal of each 
+hydrocarbon tail.  The phosphonium gemini surfactants formed hexagonal (HI), 
+bicontinuous cubic (QI), and lamellar (Lα) phases in water.  A photoin\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #16\nPDF: ACH_thesis_final.pdf - Page: 131\n================================================================================\nChapter Title: Chapter 8: Summary and Future Work\nGround Truth Label: FUTURE_WORK|SUMMARY\nError Rate: 87.5% (7/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 8: 
+Summary and Future Work 
+8.1 Summary 
+The main goal of this research was to develop an easy to prepare and sensitive biosensor 
+that would be able to detect glutamate in solution using ionic-self-assembly methods.  In 
+order to accomplish this goal, it had to be proven that electrostatic assembly could be 
+used to prepare an ISAM that included an electron transport mediator and an enzyme, and 
+to show that it would be able to generate a current that was proportional to the 
+concentra\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #17\nPDF: tperry.pdf - Page: 133\n================================================================================\nChapter Title: Chapter 6: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 87.5% (7/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 6 
+DISCUSSION: 
+FINDINGS, RECOMMENDATIONS, AND 
+CONCLUSIONS 
+ 
+“Anesthesia is a changing field--everyday.  That’s one reason it’s more challenging. . . It’s 
+always evolving.  We’re always having to learn new things, and that’s one of the things that 
+keeps you still interested in it.”—Jody, CRNA 
+ 
+ 
+Accurately depicting the experiences of the nurse anesthetists related to occupational 
+stress is a challenge; however, my researcher responsibilities extend beyond that.  Sandelowski 
+and \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #18\nPDF: dissertation_wtang.pdf - Page: 128\n================================================================================\nChapter Title: CHAPTER 7 SUMMARY AND FURTURE RESEARCH DIRECTIONS\nGround Truth Label: FUTURE_WORK|SUMMARY\nError Rate: 87.5% (7/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 7 SUMMARY AND FURTURE RESEARCH 
+DIRECTIONS 
+   
+7.1 Summary of the new simulation modeling technology 
+ 
+        This research presents an innovative simulation modeling technology. A prototype 
+simulation based on this new technology is designed and implemented. Extensive experiments 
+have been done and simulation data are compared with those from software simulation package. 
+Results show that the hardware model and software model are statistically identical, which 
+means they are inte\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #19\nPDF: Kavanaugh_JW_D_2017.pdf - Page: 103\n================================================================================\nChapter Title: CHAPTER 6: LIMITATIONS & FUTURE DIRECTIONS\nGround Truth Label: LIMITATIONS|FUTURE_WORK\nError Rate: 87.5% (7/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n96 
+CHAPTER 6:  
+LIMITATIONS & FUTURE DIRECTIONS  
+ 
+ 
+Limitations 
+This study was performed examining the effects of a high fat diet on acetylation of 
+skeletal muscle metabolism. Metabolic function may be very different for a diet high in 
+carbohydrate (sugar) than that of a high fat diet. The caloric make-up of the high fat diet was 
+very low (10%) in sugar (carbohydrate) and may not be an accurate reflection of a westernized 
+diet.  
+This study was conducted during the day which is the norma\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #20\nPDF: srlonline_dissertation.pdf - Page: 108\n================================================================================\nChapter Title: Chapter Five: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n100
+ 
+CHAPTER FIVE: DISCUSSION 
+ 
+The purpose of this study was to investigate the relationship between self-
+regulated learning behaviors and academic performance in web-based courses. The 
+inquiries of this study implicated four specific categories of self-regulated learning: time 
+and study environment management, intrinsic goal orientation, extrinsic goal orientation, 
+and metacognitive self-regulation. From information provided by 106 participants 
+enrolled in distance learning courses offe\n--------------------------------------------------\n\n\n####################################################################################################\n# PAGES 11-20 COMPLETE - CONTINUING...\n####################################################################################################\n\n================================================================================\nFALSE_POSITIVE PAGE #21\nPDF: SenseofPlaceandNewUrbanism.pdf - Page: 96\n================================================================================\nChapter Title: CHAPTER 5: DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 5: DISCUSSION  
+As was discussed in the previous chapter, the transformation of space into place for the 
+participants living within the Village at Tom’s Creek was consistent with two distinct, 
+existing theories regarding the development of a sense of place.  For over half of the 
+participants, who lived in the single-family sub-neighborhoods, social interaction was the 
+common experience that fostered a sense of place.  Within the sub-neighborhoods, 
+housing units tended to have a stro\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #22\nPDF: DanielsonDiss.pdf - Page: 94\n================================================================================\nChapter Title: Chapter 4: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n84
+CHAPTER 4:  DISCUSSION
+The Best Laid Plans of Mice and Men . . .
+When this evaluation was first planned, it was to include a half semester of full-
+scale implementation with the PLG. A time-series design was to be employed, comparing
+weekly quiz scores, confidence indicators, and randomly selected problem lists. Each
+month followed the previous one, with no end to bug fixes in sight, and it became clear
+that the project was going to take longer to implement than anticipated. As the end of the\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #23\nPDF: MathaiDissertation.pdf - Page: 85\n================================================================================\nChapter Title: Chapter Five: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n74 
+Chapter Five: Discussion 
+ 
+This chapter contains an overall picture of the results of the study. First, a profile of the 
+participants is given. Discussion of the results in terms of each research question is presented and 
+related to findings of other researchers. The chapter closes with a discussion of conclusions, 
+limitations of the study, recommendations for future research and practice, and a summary. 
+Profile of participants 
+ 
+Respondents in the study can be described as follows: av\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #24\nPDF: Zaldivar_dissertation.pdf - Page: 108\n================================================================================\nChapter Title: Chapter 4: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n99 
+Chapter 4: Discussion 
+This chapter reviews the significance of this study to the fields of 
+instructional design and online language learning.  It also reviews the revisions 
+and future work that are indicated by the results of this study.   
+Significance of the Study 
+The original impulse behind this study was a perceived need to find 
+useful instructional design theories that could be applied to a particular 
+instructional need: how grammar education was being delivered in higher 
+educati\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #25\nPDF: farris_etd.pdf - Page: 147\n================================================================================\nChapter Title: CHAPTER 5: DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 5:  DISCUSSION 
+ 
+The following chapter provides more interpretation of the study results.  First, the observed relationships 
+between outcome variables are discussed.  Next, the results of the regression modeling processes are discussed to 
+refine hypotheses about the relationships between event input factors, event process factors and event outcomes.  
+Both direct effects and indirect effects are discussed.  Finally, the chapter concludes with discussion of the 
+limitations of the pres\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #26\nPDF: JMM_ETD.pdf - Page: 43\n================================================================================\nChapter Title: CHAPTER 5 DISCUSSION, IMPLICATIONS AND LIMITATIONS\nGround Truth Label: DISCUSSION|IMPLICATIONS|LIMITATIONS\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C H A P T E R  5  
+D I S C U S S I O N ,  I M P L I C A T I O N S  A N D  L I M I T A T I O N S  
+ 
+This chapter discusses the results of hypothesis testing presented in the 
+previous chapter.  Discussion and implications of the results are reviewed along with 
+future research questions, followed by limitations of the study. 
+5.1 Discussion and Implications 
+The application of analytical review is now “pervasive in the audit process” 
+(Biggs et al. 1995, p.110).  Costs as\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #27\nPDF: Wu_T_D_2012.pdf - Page: 216\n================================================================================\nChapter Title: Chapter 9 Suggested Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n192
+Chapter 9 Suggested Future Work 
+9.1 Explore the applicability of solution rheology in elucidating the semi-dilute 
+solution morphologies of strongly associated polymers 
+Chapter 4 of this dissertation reported the impact of processing methods (e.g. 
+“swelling” vs. “cast with”) on the morphology and the property of zwitterionomer / ionic 
+liquid binary compositions. We focused on the solid state properties of the composite 
+membranes and attributed the decreasing thermomechanical performance\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #28\nPDF: White_NA_D_2014.pdf - Page: 237\n================================================================================\nChapter Title: Chapter 8: Research Summary and Future Work\nGround Truth Label: FUTURE_WORK|SUMMARY\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - mistralsmallResults_stage2_3\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n215 
+ 
+ Research Summary and Future Work 
+Chapter 8:
+ 
+Research Summary 
+A human body finite element (FE) model was used to evaluate dynamic neck response 
+during simulated automobile and rotary-wing aircraft impacts (Table 8-1). A novel method to 
+measure cross-sectional forces and moments in the neck during these impacts was developed and 
+implemented. Neck loading was reported in three automobile impact simulations: a frontal 
+impact of a belted driver with airbag deployment, a frontal impact\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #29\nPDF: Coleman_DS_D_2017.pdf - Page: 77\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 75.0% (6/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 5: Discussion 
+ 
+In accordance with grounded theory practice, this chapter situates a discussion of the study’s 
+findings in the context of the related bodies of literature (Christiansen, 2008; Glaser, 1992, 2001, 
+2002; Stern & Poor, 2011). One of the consequences of emergent research is that outcomes can 
+be conceptually quite different from existing literature, a result that complicates literature review 
+and restricts the scope of the comparison, due to some degree of incommensurabil\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #30\nPDF: HertleinETD.pdf - Page: 153\n================================================================================\nChapter Title: CHAPTER V: DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 62.5% (5/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER V: DISCUSSION 
+Given a choice between two theories, take the one which is funnier. 
+- 
+Blore's Razor 
+ 
+ 
+The purpose of this study was to explore how demographic characteristics of clients and 
+marriage and family therapists influenced their assessment and treatment of Internet infidelity 
+cases. There were two phases in this study. In the first phase, approximately 500 members of the 
+American Association for Marriage and Family Therapy responded to an online survey. This 
+survey consi\n--------------------------------------------------\n\n\n####################################################################################################\n# PAGES 21-30 COMPLETE - CONTINUING...\n####################################################################################################\n\n================================================================================\nFALSE_POSITIVE PAGE #31\nPDF: Jeffrey_TR_D_2010.pdf - Page: 224\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 62.5% (5/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n206 
+ 
+Chapter 5: Discussion 
+The purpose of this study was to discover how college students and instructors 
+perceive collaborative group work within a learning context, including: (a) the value that 
+each constituency places upon collaborative group activities, (b) the factors each 
+constituency believes contribute to successful collaboration, and (c) the expectations of 
+accountability to successful collaboration that each constituency assigns to the other. The 
+design of this study was non-e\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #32\nPDF: Kumar_Dissertation_June17th.pdf - Page: 54\n================================================================================\nChapter Title: CHAPTER V: DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 62.5% (5/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n45 
+ 
+CHAPTER V: DISCUSSION  
+In this study, there was no support for the role of Emotional Intelligence on job satisfaction, 
+turnover intention, and job performance. Below, I will discuss those results as it relates to each 
+of those dependent variables.  
+ 
+Job Satisfaction 
+ 
+The three component model of job satisfaction argues that there are affective, cognitive, 
+and behavioral components to job satisfaction (Hulin et al., 2003). The argument and hypothesis 
+that was offered regarding the \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #33\nPDF: Lisanti_MW_D_2015.pdf - Page: 189\n================================================================================\nChapter Title: Chapter 7: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 62.5% (5/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n178 
+ 
+Chapter 7: Discussion 
+My research in the field began with these two questions:  How are instructional 
+design and planning activities coordinated, organized, regulated, and/or standardized by 
+broader extralocal relations of power that function beyond the daily experiences of 
+teachers?  How do discourses and activities in the institution replicate, constitute, and/or 
+challenge those institutional relations?  In her framework for conducting institutional 
+ethnography, Dorothy Smith (200\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #34\nPDF: Stokes_M_D_2015.pdf - Page: 138\n================================================================================\nChapter Title: Chapter 6: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 62.5% (5/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 6: Discussion 
+ 
+This study set out to explore the household survival strategies of displaced 
+manufacturing workers living and working in the New River Valley (NRV), the City of 
+Martinsville, and Henry County Virginia. Because I assumed that the communities in 
+which the workers lived and worked played a significant role in their experiences and 
+decisions following job loss, it was necessary to include the effects of deindustrialization 
+on the community in this study.  
+ 
+So how were\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #35\nPDF: dissertationcampbellrevised.pdf - Page: 125\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n113
+CHAPTER 5 
+DISCUSSION 
+ 
+The purpose of this qualitative study was to describe the phenomenon of elderly voter 
+attitudes toward public education funding. A thorough understanding of the meaning of this 
+phenomenon was captured through personal dialogue that related the essence of the lived 
+experiences of a select group of elderly voters who resided in a rural county in a mid-Atlantic 
+state. At the heart of this inquiry was the gathering of detailed descriptions of life experiences 
+that n\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #36\nPDF: CNoelByrdDissertationrevised.pdf - Page: 75\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n68 
+ 
+Chapter 5: Discussion 
+ 
+The main goal of this research was to examine specific variables (e.g., perceptions of 
+educational research, self-efficacy in the context of information literacy skills) that may impact 
+special education professionals’ interaction with educational research information. The study 
+used an anonymous, online survey instrument to investigate special educators’ views about 
+educational research in general, their perceived barriers to educational research, and the sour\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #37\nPDF: Reese_D_D.pdf - Page: 175\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 5: Discussion 
+Cognitive scientists accept two complimentary metaphor theories. According to 
+conceptual metaphor, people use what they know about concrete experiences to help them 
+understand the subjective and complex (Lakoff & Johnson, 1980, 1999). According to structure 
+mapping, people build cognitive bridges from concrete and/or familiar domains to abstract 
+and/or less familiar domains according to parallel relational structures that exist in both domains 
+(Gentner & Holyoak, 1997\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #38\nPDF: etd.pdf - Page: 156\n================================================================================\nChapter Title: CHAPTER 6 - DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n146
+C H A P T E R  6  -  D I S C U S S I O N
+The focus of this dissertation was to investigate the user requirements in the
+distributed meeting environment and to create heuristics (Section 3.4.11) that would
+allow users, designers, and experts to ameliorate their ability to engage in the facility
+design and distributed meeting process.  The research hypotheses examined the
+relationship between user requirements and level of experience, user requirements and
+participatory approaches to facility \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #39\nPDF: YamagiwaETD.pdf - Page: 141\n================================================================================\nChapter Title: Chapter 6. Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n124 
+Chapter 6. Discussion 
+ 
+6.1. Introduction 
+A series of evidence and perceptions that aid in evaluating the principal and auxiliary 
+hypotheses of this study were presented in the previous chapter. In this chapter, those inputs are 
+utilized to first construct an assessment of the auxiliary hypotheses, whose results would in turn 
+help in evaluating the principal hypothesis. Finally, policy implications, future research needs 
+and general comments are provided as a conclusion of this paper.\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #40\nPDF: ElkinsDissertation2.pdf - Page: 309\n================================================================================\nChapter Title: Chapter 10 Suggested Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama3.18bResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 10 
+Suggested Future Work 
+ 
+10.1 Amine functional poly(dimethyl siloxane)s 
+1. Synthesize a series of difunctional linear poly(dimethylsiloxane)s with 3-[(N-
+benzyl-N-methyl)amino]-1-propyllithium and amine endcapping (1-chloro-3-
+(dimethylamino)propane). 
+a. Utilize well-defined poly(dimethyl siloxane)s in polycondensation 
+reactions as the soft block.  Study the effect of molar mass on properties. 
+b. Utilize monofunctional poly(dimethyl siloxane)s as chain stoppers and 
+study the eff\n--------------------------------------------------\n\n\n####################################################################################################\n# PAGES 31-40 COMPLETE - CONTINUING...\n####################################################################################################\n\n================================================================================\nFALSE_POSITIVE PAGE #41\nPDF: Baughman_Sarah_D_2010.pdf - Page: 106\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n94
+Chapter 5: Discussion 
+ 
+The purpose of this study was to examine how non-formal educators use the 
+results of program evaluation and to explore factors influencing evaluation use. In the 
+Cooperative Extension Service non-formal educators often have responsibilities for 
+program management and program evaluation. Most published evaluation use studies 
+have been conducted as case studies with evaluations conducted by professional 
+evaluators (Cousins & Leithwood, 1986; Johnson et al., 2009). \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #42\nPDF: DISSERTATION_SerkanUnal_pdf.pdf - Page: 237\n================================================================================\nChapter Title: Chapter 11: Suggested Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama4ScoutResults_stage2_3\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n224
+Chapter 11: Suggested Future Work 
+11.1 Polycaprolactone based, Highly Branched Poly(ester urethane)s 
+Polycaprolactone based polymeric materials are great candidates for biocompatible 
+and biodegradable systems due to the susceptibility of polycaprolactone to hydrolysis or 
+enzymatic degradation.  Therefore, the influence of topology on the biodegradation 
+behavior of polycaprolactone based poly(ester urethane) elastomers should be 
+investigated.  Biodegradation studies could be performed i\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #43\nPDF: Laughlin_AM_D_2014.pdf - Page: 111\n================================================================================\nChapter Title: Chapter Five Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n102 
+ 
+Chapter Five 
+Discussion 
+This study was designed to examine relationships between student ratings of instruction, 
+and the academic field, level, and size of a class. The data were mean class ratings collected from 
+more than 4,000 class sections at a large research university. Analysis of variance was used to 
+answer seven research questions that queried the role of each independent variable, interactions 
+among the independent variables, and the comparative effects of two approaches to\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #44\nPDF: Kwansa_AL_D_2013.pdf - Page: 85\n================================================================================\nChapter Title: Chapter 6: Summary\nGround Truth Label: SUMMARY\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 6: Summary
+Chapter 6:  Summary
+In summary, we have discussed our research efforts to better understand the molecular 
+dynamics and mechanics of collagen type I and its  lysine/hydroxylysine-derived crosslinks. 
+Chapter 1 presents an introduction. Chapter 2 discusses general background relating to collagen 
+proteins, collagen type I, and  enzymatic  collagen crosslinks. Chapter 3 describes molecular 
+modeling work involving a ~23-nm-long region (overlap region) where the ends of two adjac\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #45\nPDF: Hollingsworth_WL_D_2014.pdf - Page: 90\n================================================================================\nChapter Title: Chapter 5. Discussion\nGround Truth Label: DISCUSSION\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_stage2_3\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nBOUNDARY AMBIGUITY AND AMBIVALENCE
+80
+Chapter 5
+DISCUSSION
+Summary
+The present study is situated in the “third wave” of military family reintegration research,
+which, among other things, “comprises studies focused less on description and more on
+explanation” (MacDermid Wadsworth, 2013, Pushing Ahead..., para. 1). Burgeoning “third
+wave” military family scholarship suggests links between the stressors of deployment and
+reintegration and family functioning. Utilizing the Contextual Model of Family\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #46\nPDF: MAZdissertation05.05.05final.pdf - Page: 131\n================================================================================\nChapter Title: CHAPTER 7. Recommendations for Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAP
+PDMS and other siloxane-based polymers sterically stabilize cobalt nanoparticles in a variety of 
+tabilizers tailored for 
+esired solvents. 
+Anisotropic ferrite nanoparticles need to be coated individually to realize their potential 
+ biomedical applications.  One problem with these particles is that they have remanent 
+agnetization, which leads to interparticle interactions and clustering.  It is unclear as to whether 
+echanical stirring separates the particles enough to individually coat \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #47\nPDF: Tang_H_D_2017.pdf - Page: 120\n================================================================================\nChapter Title: Chapter 5 Future Works\nGround Truth Label: FUTURE_WORK\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 5
+Future Works
+104\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #48\nPDF: Rosario_Dissertation.pdf - Page: 204\n================================================================================\nChapter Title: Chapter 8: Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 50.0% (4/8 models)\n\nModels with false_positive:\n  - llama4ScoutResults_stage2_3\n  - llama4ScoutResults_full_pipeline\n  - llama3.18bResults_stage2_3\n  - llama3.18bResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nCHAPTER 8: FUTURE WORK 
+ 
+8.1 
+Dimethacrylate-Styrene Network Chemistry 
+    While the copolymerization kinetics studies provided further insight into the network 
+formation of dimethacrylate-styrene systems, there remains a considerable amount of 
+unanswered questions.  Gel solubility experiments as a function of styrene content and 
+cure temperature should be performed.  Preliminary studies indicated that the 
+concentration of pendent double bonds can be determined using attenuated total 
+refl\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #49\nPDF: Swan_Dissertation_Complete_FinalETD_02May07.pdf - Page: 201\n================================================================================\nChapter Title: CHAPTER 5 – DISCUSSION OF RESULTS\nGround Truth Label: DISCUSSION\nError Rate: 37.5% (3/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama4ScoutResults_stage2_3\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nBret R. Swan 
+ 
+Chapter 5 – Discussion of Results 
+Page 185 of 420 
+C h a p t e r  F i v e  
+CHAPTER 5 – DISCUSSION OF RESULTS 
+ 
+The implications of these results are discussed in this chapter.  This chapter interprets the results of 
+this experiment in the context of the research purpose and related literature, and presents discussion in the 
+following sections: 
+Section 5.1: Effect of BPM Cognitive Resources on User Comprehension  
+Section 5.2: Effect of Individual Cognitive Differences on GP\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #50\nPDF: AnnFornofDissertationFinal.pdf - Page: 175\n================================================================================\nChapter Title: Chapter 8: Suggested Future Work\nGround Truth Label: FUTURE_WORK\nError Rate: 37.5% (3/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - llama3.18bResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n161
+Chapter 8: Suggested Future Work 
+8.1 Synthesis and Gene Transfection Studies of PEG-Based 
+Ionenes 
+ 
+Trukhanova et al. probed the effect of charge density on the gene transfection 
+efficiency of aliphatic ionenes.208  A greater aliphatic spacing between ionic groups 
+led to a lower cell viability.  Poly(ethylene glycol) is biocompatible and even prevents 
+protein adhesion.  A PEG-based ionene is a great candidate for a gene transfection 
+agent.  Ionenes are polycations, which is necessary \n--------------------------------------------------\n\n\n####################################################################################################\n# PAGES 41-50 COMPLETE - CONTINUING...\n####################################################################################################\n\n================================================================================\nFALSE_POSITIVE PAGE #51\nPDF: Kim_S_D_2009.pdf - Page: 107\n================================================================================\nChapter Title: Chapter Five: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 37.5% (3/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n96 
+Chapter Five: Discussion 
+ 
+The primary purpose of this study was to explore the perceptions and the actual use of 
+learning objects among IDT practitioners across various organizations. Specifically, this study 
+aimed to address the following research questions and their ancillary sub-questions: 
+(1) What is the current conceptualization of learning objects?   
+(2) How are learning objects currently being used across varying organizations? What 
+sizes of learning objects are IDT practitione\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #52\nPDF: Zhong_S_D_2017.pdf - Page: 134\n================================================================================\nChapter Title: Chapter 6: Contributions and Further Research\nGround Truth Label: FUTURE_WORK\nError Rate: 37.5% (3/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama4ScoutResults_stage2_3\n  - llama3.18bResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n- 132 - 
+Chapter 6: Contributions and Further Research 
+6.1 Contributions 
+From the proliferation of AMI load data and other load data monitoring technologies in 
+recent years, the utility industry has accumulated vast amounts of high-resolution load data. There 
+is a need for an analysis framework that can be used to gain insight into load behavior and answer 
+questions such as:  
+ How does a customer or network’s load profile behave under different conditions?  
+ What kind of patterns exist \n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #53\nPDF: Johnston_CD_D_2017.pdf - Page: 111\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 37.5% (3/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n  - mistralsmallResults_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n99 
+ 
+Chapter 5: Discussion 
+ 
+Chapter 1 introduced the leadership challenge that superintendents in fiscally dependent 
+school districts face as they guide school district budgets from creation through the local 
+governing board to obtain the funding needed to operate the local school district.  Chapter 2 
+expanded on this challenge by reviewing research highlighting the differences between 
+budgeting in fiscally dependent and fiscally independent school districts by reviewing the 
+budgeting pr\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #54\nPDF: RBdist.pdf - Page: 155\n================================================================================\nChapter Title: Chapter 7. DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 25.0% (2/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 7. DISCUSSION 
+ 
+7.1 Discussion of the Lithostratigraphy 
+ 
+The lithologic data collected in this study presents evidence for answers to many 
+questions about the nature of the stratigraphic units.  It is clear that there is a recognizable 
+pattern in the stratigraphy.  The pattern can be correlated with adjacent studies to the 
+north and northwest.  Why is this pattern so consistent within such a dynamic 
+depositional environment?  How consistent is it?  The hypothesis is that the consi\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #55\nPDF: finaletd.pdf - Page: 139\n================================================================================\nChapter Title: CHAPTER FOUR: DISCUSSION\nGround Truth Label: DISCUSSION\nError Rate: 25.0% (2/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n139 
+  
+ 
+CHAPTER FOUR: DISCUSSION 
+Introduction 
+Data from the Results chapter were presented according to the four domains of 
+interpersonal support, student characteristics, course issues, and infrastructure support. 
+For the Discussion chapter, a secondary analysis was conducted to examine relationships 
+across domains and categories and then to connect these relationships with the overall 
+research question, “How do community college students construct their on-line 
+experiences?” and the 5\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #56\nPDF: Samur_Y_D_2012.pdf - Page: 142\n================================================================================\nChapter Title: Chapter 5: Discussion\nGround Truth Label: DISCUSSION\nError Rate: 25.0% (2/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n127 
+ 
+Chapter 5: Discussion 
+Chapter 5 discusses the research findings presented in chapter 4. The purpose of 
+this study was to measure students’ engagement within three domains -behavioral, 
+cognitive, and emotional- in the context of using educational games and virtual 
+manipulatives. Four 5th grade classrooms with total number of 86 students from four 
+different schools participated in this study (N=86). Three of the classrooms constituted 
+the experimental group and one classroom constitut\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #57\nPDF: MouETDSubmitted.pdf - Page: 238\n================================================================================\nChapter Title: 8. CHAPTER-8-Future and Suggested Research\nGround Truth Label: FUTURE_WORK\nError Rate: 25.0% (2/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\n8. CHAPTER-8-Future and Suggested Research 
+ 
+8.1. Introduction 
+ 
+BPSH random copolymers have shown excellent proton conductivity at fully 
+hydrated condition, low permeability to fuels and high mechanical stability at elevated 
+temperatures; all the properties required for a high performance proton exchange 
+membrane.  However, due to the random distribution of the sulfonic acid groups along 
+the backbone of this copolymer, a high ion exchange capacity is needed to achieve the 
+desirable conne\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #58\nPDF: J_Bryson_Dissertation_9222009.pdf - Page: 173\n================================================================================\nChapter Title: Chapter 8 future work\nGround Truth Label: FUTURE_WORK\nError Rate: 25.0% (2/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n  - llama33Results_full_pipeline\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nChapter 8: Suggested Future Work 
+8.1 Targeted inclusion studies with Gd10 
+ 
+Inclusion possibilities were the original impetus for synthesizing Gd10 and offer 
+unlimited potential for this easily functionalized contrast agent.  Cyclodextrins are well known 
+for their hydrophobic inclusion properties.  Several delivery and imaging agents have utilized 
+this property to attain organ targetable systems.1  Much like the inclusion explored in Chapter 5, 
+targeting agents such as folic acid (Figure 8\n--------------------------------------------------\n\n================================================================================\nFALSE_POSITIVE PAGE #59\nPDF: ETD_Fred_D_Barlow_III.pdf - Page: 125\n================================================================================\nChapter Title: CHAPTER 9 Summary of Findings\nGround Truth Label: SUMMARY\nError Rate: 12.5% (1/8 models)\n\nModels with false_positive:\n  - llama33Results_stage2_3\n\nACTUAL 500-CHARACTER CONTENT THAT MODELS SEE:\n--------------------------------------------------\nElectronic Packaging Strategies for High Current DC to DC Converters
+Fred D. Barlow III 
+118
+CHAPTER 9
+Summary of Findings
+9.1  3.3 Volt. 100 watt Converter
+9.1.1  Electrical Simulation
+As discussed in detail in chapter 4, the electrical simulation of the 3.3V
+100watt converter design, previously developed and published by other
+researchers, demonstrates that this voltage and power level are possible
+with relatively high efficiencies in a number of implementation schemes. 
+A summary of the effic\n--------------------------------------------------\n\n

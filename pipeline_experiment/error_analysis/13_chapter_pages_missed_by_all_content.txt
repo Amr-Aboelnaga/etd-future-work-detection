@@ -1,0 +1,148 @@
+================================================================================
+CHAPTER PAGES TRULY MISSED BY ALL MODELS - CORRECTED ANALYSIS
+Pages that should be 'Chapter beginning page' but ALL models classified as something else
+================================================================================
+
+CHAPTER PAGE #1 - TRULY MISSED BY ALL
+PDF: /projects/open_etds/etd/dissertation/26771/NI_disseration.pdf - Page: 294
+Chapter Title: Chapter 7: Conclusions
+Ground Truth Label: CONCLUSION
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+Conclusions  
+7.1. Introduction 
+Known for its influence to the performance of turbomachines, the tip leakage 
+vortex is a dominating feature of the flow field near the rotor blade tip region. In 
+compressors or shrouded marine propulsors where the rotor blade tip is restricted in a 
+confined space, the flow in the endwall viscous region forms a vortex-like structure that 
+convects downstream. This structure and its unsteadiness due to the stator-rotor 
+interaction are sources of efficiency loss...
+
+============================================================
+
+CHAPTER PAGE #2 - TRULY MISSED BY ALL
+PDF: /projects/open_etds/etd/dissertation/78907/Waldron_CM_D_2017.pdf - Page: 100
+Chapter Title: Conclusion
+Ground Truth Label: CONCLUSION
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+92 
+ 
+Conclusion  
+ 
+ 
+The aerosolized experiments within the bio chamber and the walk-in refrigerator 
+unit correlated well with one another. Both experiments exhibited the potential for 
+Listeria species to containment the air as well as industrial surfaces under various 
+conditions.  The environmental factors of humidity, temperature, distance from the 
+source, and contact time played a significant role in the recovery of the bacteria from 
+the tested surfaces and air samples.  In general com...
+
+============================================================
+
+CHAPTER PAGE #3 - TRULY MISSED BY ALL
+PDF: /projects/open_etds/etd/dissertation/11060/WynnETD.pdf - Page: 84
+Chapter Title: DISCUSSION
+Ground Truth Label: DISCUSSION
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+76
+DISCUSSION
+Tectonics
+Ettensohn (1994) has suggested that the region was tectonically quiescent during deposition
+of the study interval, and in a state of elevational equilibrium between the filled foreland basin and
+the beveled Devonian orogenic highlands. Using the model of Quinlan and Beaumont (1984) and
+Beaumont et al. (1988), Ettensohn (1994) provided a flexural tectonic model for the Mississippian
+rocks of the Appalachian Basin.  Widespread deepening followed by progradation of Early
+Mis...
+
+============================================================
+
+CHAPTER PAGE #4 - TRULY MISSED BY ALL
+PDF: /projects/open_etds/etd/dissertation/74003/Bateman_TA_D_2017.pdf - Page: 82
+Chapter Title: General Discussion
+Ground Truth Label: nan
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Table of contents page
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+69
+data, implying that PM and vigilance may predict efficacy levels for the same tasks and that 
+measurement items may, in fact, be contaminated with generalized self-efficacy. 
+General Discussion 
+Vigilance as an approach or an avoidance construct 
+The vigilance construct was defined and measured in response to a potential construct 
+deficiency in motivation research whereby effective aspects of the avoidance motive have mostly 
+been ignored. The emergence of a vigilance construct suggests that...
+
+============================================================
+
+CHAPTER PAGE #5 - TRULY MISSED BY ALL
+PDF: /projects/open_etds/etd/dissertation/74003/Bateman_TA_D_2017.pdf - Page: 91
+Chapter Title: Conclusions
+Ground Truth Label: nan
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+78
+such as creativity. Additional research will be required to clarify which motivational traits are the 
+most powerful predictors of self-regulation and performance in various situations.  
+Conclusions        
+Psychometric evidence supports vigilance as a meaningful addition to the motivational 
+traits framework. Evidence suggests that vigilance items capture unique information that is not 
+assessed by existing motivational trait items. Additional evidence provided a minimum amount 
+of support ...
+
+============================================================

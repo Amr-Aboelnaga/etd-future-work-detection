@@ -1,0 +1,9 @@
+Model,Stage,Correct_Chapters,TP,FP,FN,TN,Precision,Recall,F1_Score
+llama33Results,stage2_3,292,201,56,15,20,0.782,0.931,0.850
+llama33Results,full_pipeline,293,197,55,20,21,0.782,0.908,0.840
+llama4ScoutResults,stage2_3,278,189,37,17,35,0.836,0.917,0.875
+llama4ScoutResults,full_pipeline,279,183,35,23,38,0.839,0.888,0.863
+llama3.18bResults,stage2_3,269,172,24,23,50,0.878,0.882,0.880
+llama3.18bResults,full_pipeline,285,192,24,19,50,0.889,0.910,0.899
+mistralsmallResults,stage2_3,285,167,38,42,38,0.815,0.799,0.807
+mistralsmallResults,full_pipeline,284,173,45,36,30,0.794,0.828,0.810

@@ -1,0 +1,9 @@
+Model_Stage,Total_False_Positive_Conclusions_FP
+llama33Results_stage2_3,56
+llama33Results_full_pipeline,55
+llama4ScoutResults_stage2_3,37
+llama4ScoutResults_full_pipeline,35
+llama3.18bResults_stage2_3,24
+llama3.18bResults_full_pipeline,24
+mistralsmallResults_stage2_3,38
+mistralsmallResults_full_pipeline,45

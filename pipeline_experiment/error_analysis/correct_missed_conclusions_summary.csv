@@ -1,0 +1,9 @@
+Model_Stage,Total_Missed_Conclusions_FN
+llama33Results_stage2_3,15
+llama33Results_full_pipeline,20
+llama4ScoutResults_stage2_3,17
+llama4ScoutResults_full_pipeline,23
+llama3.18bResults_stage2_3,23
+llama3.18bResults_full_pipeline,19
+mistralsmallResults_stage2_3,42
+mistralsmallResults_full_pipeline,36

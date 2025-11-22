@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(tar:*)",
+      "Bash(mv:*)",
+      "Bash(curl:*)",
+      "Read(//projects/open_etds/amr_data/final_experiments/**)",
+      "Bash(pkill:*)",
+      "Bash(kill:*)",
+      "Bash(tree:*)",
+      "Bash(mkdir:*)",
+      "Read(//projects/open_etds/amr_data/**)",
+      "Bash(for file in /projects/open_etds/amr_data/final_experiments/groundtruth_subset_*.csv)",
+      "Bash(wc:*)",
+      "Bash(head:*)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "/root"
+    ]
+  }
+}

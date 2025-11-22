@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/projects/open_etds/amr_data/**)",
+      "Read(//projects/open_etds/amr_data/pipeline_experiment/**)",
+      "Read(//projects/open_etds/amr_data/final_experiments/pipeline_experiment/**)",
+      "Read(//projects/open_etds/amr_data/final_experiments/**)",
+      "Bash(find:*)",
+      "Bash(python3:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

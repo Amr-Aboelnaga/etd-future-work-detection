@@ -1,0 +1,9 @@
+Model,Stage,Coverage_Rate,Detected_GT_Pages,Total_GT_Pages,False_Positives,PDFs_with_Matches
+llama33Results,stage2_3,0.874,292,334,10417,259
+llama33Results,full_pipeline,0.877,293,334,10235,260
+llama4ScoutResults,stage2_3,0.832,278,334,4534,249
+llama4ScoutResults,full_pipeline,0.835,279,334,5597,247
+llama3.18bResults,stage2_3,0.805,269,334,10896,237
+llama3.18bResults,full_pipeline,0.853,285,334,11994,252
+mistralsmallResults,stage2_3,0.853,285,334,7623,252
+mistralsmallResults,full_pipeline,0.850,284,334,7756,251

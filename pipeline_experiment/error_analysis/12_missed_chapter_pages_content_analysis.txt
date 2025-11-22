@@ -1,0 +1,284 @@
+================================================================================
+TRULY MISSED CHAPTER BEGINNING PAGES - CORRECTED ANALYSIS
+Pages that should be 'Chapter beginning page' but were classified as something else
+================================================================================
+
+================================================================================
+TRULY MISSED PAGE #1
+PDF: /projects/open_etds/etd/dissertation/26771/NI_disseration.pdf - Page: 294
+--------------------------------------------------------------------------------
+Chapter Title: Chapter 7: Conclusions
+Ground Truth Label: CONCLUSION
+Miss Rate: 100.00% (8/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+Conclusions  
+7.1. Introduction 
+Known for its influence to the performance of turbomachines, the tip leakage 
+vortex is a dominating feature of the flow field near the rotor blade tip region. In 
+compressors or shrouded marine propulsors where the rotor blade tip is restricted in a 
+confined space, the flow in the endwall viscous region forms a vortex-like structure that 
+convects downstream. This structure and its unsteadiness due to the stator-rotor 
+interaction are sources of efficiency loss...
+
+
+================================================================================
+TRULY MISSED PAGE #2
+PDF: /projects/open_etds/etd/dissertation/78907/Waldron_CM_D_2017.pdf - Page: 100
+--------------------------------------------------------------------------------
+Chapter Title: Conclusion
+Ground Truth Label: CONCLUSION
+Miss Rate: 100.00% (8/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+92 
+ 
+Conclusion  
+ 
+ 
+The aerosolized experiments within the bio chamber and the walk-in refrigerator 
+unit correlated well with one another. Both experiments exhibited the potential for 
+Listeria species to containment the air as well as industrial surfaces under various 
+conditions.  The environmental factors of humidity, temperature, distance from the 
+source, and contact time played a significant role in the recovery of the bacteria from 
+the tested surfaces and air samples.  In general com...
+
+
+================================================================================
+TRULY MISSED PAGE #3
+PDF: /projects/open_etds/etd/dissertation/11060/WynnETD.pdf - Page: 84
+--------------------------------------------------------------------------------
+Chapter Title: DISCUSSION
+Ground Truth Label: DISCUSSION
+Miss Rate: 100.00% (8/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+76
+DISCUSSION
+Tectonics
+Ettensohn (1994) has suggested that the region was tectonically quiescent during deposition
+of the study interval, and in a state of elevational equilibrium between the filled foreland basin and
+the beveled Devonian orogenic highlands. Using the model of Quinlan and Beaumont (1984) and
+Beaumont et al. (1988), Ettensohn (1994) provided a flexural tectonic model for the Mississippian
+rocks of the Appalachian Basin.  Widespread deepening followed by progradation of Early
+Mis...
+
+
+================================================================================
+TRULY MISSED PAGE #4
+PDF: /projects/open_etds/etd/dissertation/74003/Bateman_TA_D_2017.pdf - Page: 82
+--------------------------------------------------------------------------------
+Chapter Title: General Discussion
+Ground Truth Label: nan
+Miss Rate: 100.00% (8/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Table of contents page
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+69
+data, implying that PM and vigilance may predict efficacy levels for the same tasks and that 
+measurement items may, in fact, be contaminated with generalized self-efficacy. 
+General Discussion 
+Vigilance as an approach or an avoidance construct 
+The vigilance construct was defined and measured in response to a potential construct 
+deficiency in motivation research whereby effective aspects of the avoidance motive have mostly 
+been ignored. The emergence of a vigilance construct suggests that...
+
+
+================================================================================
+TRULY MISSED PAGE #5
+PDF: /projects/open_etds/etd/dissertation/74003/Bateman_TA_D_2017.pdf - Page: 91
+--------------------------------------------------------------------------------
+Chapter Title: Conclusions
+Ground Truth Label: nan
+Miss Rate: 100.00% (8/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+78
+such as creativity. Additional research will be required to clarify which motivational traits are the 
+most powerful predictors of self-regulation and performance in various situations.  
+Conclusions        
+Psychometric evidence supports vigilance as a meaningful addition to the motivational 
+traits framework. Evidence suggests that vigilance items capture unique information that is not 
+assessed by existing motivational trait items. Additional evidence provided a minimum amount 
+of support ...
+
+
+================================================================================
+TRULY MISSED PAGE #6
+PDF: /projects/open_etds/etd/dissertation/47785/Sreedharan_Nair_S_D_2014.pdf - Page: 100
+--------------------------------------------------------------------------------
+Chapter Title: Chapter 8: Conclusion
+Ground Truth Label: CONCLUSION
+Miss Rate: 87.50% (7/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_stage2_3: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Table of contents page
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+87 
+ 
+8 
+ 
+Conclusion 
+ 
+8.1 Summary 
+Gas chromatography has a proven applicability in a multitude of domains for over a 
+century. However, this is restricted to analysis of samples brought to lab from the field. For 
+example, workers employed in laying out roads are regularly exposed to asphalt. The fumes from 
+asphalt are a potential source of respiratory health concerns. The National Institute on 
+Occupational Safety and Health (NIOSH) prescribes limits on occupational exposure to asphalt. 
+A...
+
+
+================================================================================
+TRULY MISSED PAGE #7
+PDF: /projects/open_etds/etd/dissertation/77520/Miller_DV_D_2017.pdf - Page: 194
+--------------------------------------------------------------------------------
+Chapter Title: Conclusions
+Ground Truth Label: CONCLUSION
+Miss Rate: 87.50% (7/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama33Results_full_pipeline: Normal text
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+184 
+ 
+Conclusions 
+Due to the prevalence of S-adenosyl-L-methionine (SAM) dependent enzymes in 
+Methanocaldococcus jannaschii the pathways involved in recycling the ribose and nucleobase 
+moieties of SAM were investigated.  The results of this work demonstrate that the canonical 
+pathways are modified and additional unique pathways exist in the autotrophic methanogenic 
+organism M. jannaschii for the recycling of SAM.  SAM recycling pathways are essential to 
+prevent feedback inhibition of SAM ...
+
+
+================================================================================
+TRULY MISSED PAGE #8
+PDF: /projects/open_etds/etd/dissertation/38694/Resop_JP_D_2010.pdf - Page: 106
+--------------------------------------------------------------------------------
+Chapter Title: PhD Final Resop Chapter 5 Conclusions
+Ground Truth Label: CONCLUSION
+Miss Rate: 75.00% (6/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+99 
+ 
+5.0 Conclusions and Future Research 
+5.1 Conclusions 
+Terrestrial Laser Scanning for Fluvial Applications 
+ 
+TLS has been applied to two fluvial applications: monitoring streambank retreat and 
+quantifying habitat complexity. These applications highlight the ability of TLS to provide 
+accurate, precise measurements of topography for creating high-resolution DEMs. The main 
+limitations of this technology are its inability to measure underwater surfaces and the post-
+processing involved with...
+
+
+================================================================================
+TRULY MISSED PAGE #9
+PDF: /projects/open_etds/etd/dissertation/56569/Hunter_DN_D_2015.pdf - Page: 96
+--------------------------------------------------------------------------------
+Chapter Title: Chapter 5. Discussion and Conclusion
+Ground Truth Label: CONCLUSION|DISCUSSION
+Miss Rate: 75.00% (6/8 models)
+
+ACTUAL MODEL CLASSIFICATIONS (should be 'Chapter beginning page'):
+  llama4ScoutResults_stage2_3: Normal text
+  llama4ScoutResults_full_pipeline: Normal text
+  llama3.18bResults_stage2_3: Normal text
+  llama3.18bResults_full_pipeline: Normal text
+  mistralsmallResults_stage2_3: Normal text
+  mistralsmallResults_full_pipeline: Normal text
+
+PAGE CONTENT:
+----------------------------------------
+86 
+ 
+ 
+Discussion and Conclusion 
+5.1 
+Introduction  
+The purpose of this dissertation study was to use the Innovation Cycle of Educational Practice and Research 
+(ICEPR) as a lens to investigate the challenges with facilitation practices in introductory PBL engineering 
+courses (Jamieson & Lohmann, 2009), and to develop a pragmatic research-based model that provides 
+insights aimed at improving PBL facilitation practices. In order to achieve this purpose I answered the 
+following research ques...
+

@@ -1,0 +1,1053 @@
+[
+  {
+    "pdf_name": "NI_disseration.pdf",
+    "page_number": 294,
+    "chapter_title": "Chapter 7: Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26771/NI_disseration.pdf",
+    "miss_count": 8,
+    "total_models": 8,
+    "miss_rate": 1.0,
+    "detected_by": [],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Waldron_CM_D_2017.pdf",
+    "page_number": 100,
+    "chapter_title": "Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/78907/Waldron_CM_D_2017.pdf",
+    "miss_count": 8,
+    "total_models": 8,
+    "miss_rate": 1.0,
+    "detected_by": [],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "WynnETD.pdf",
+    "page_number": 84,
+    "chapter_title": "DISCUSSION",
+    "label": "DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/11060/WynnETD.pdf",
+    "miss_count": 8,
+    "total_models": 8,
+    "miss_rate": 1.0,
+    "detected_by": [],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Bateman_TA_D_2017.pdf",
+    "page_number": 82,
+    "chapter_title": "General Discussion",
+    "label": NaN,
+    "full_path": "/projects/open_etds/etd/dissertation/74003/Bateman_TA_D_2017.pdf",
+    "miss_count": 8,
+    "total_models": 8,
+    "miss_rate": 1.0,
+    "detected_by": [],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Bateman_TA_D_2017.pdf",
+    "page_number": 91,
+    "chapter_title": "Conclusions",
+    "label": NaN,
+    "full_path": "/projects/open_etds/etd/dissertation/74003/Bateman_TA_D_2017.pdf",
+    "miss_count": 8,
+    "total_models": 8,
+    "miss_rate": 1.0,
+    "detected_by": [],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Sreedharan_Nair_S_D_2014.pdf",
+    "page_number": 100,
+    "chapter_title": "Chapter 8: Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/47785/Sreedharan_Nair_S_D_2014.pdf",
+    "miss_count": 7,
+    "total_models": 8,
+    "miss_rate": 0.875,
+    "detected_by": [
+      "llama33Results_full_pipeline"
+    ],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Miller_DV_D_2017.pdf",
+    "page_number": 194,
+    "chapter_title": "Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/77520/Miller_DV_D_2017.pdf",
+    "miss_count": 7,
+    "total_models": 8,
+    "miss_rate": 0.875,
+    "detected_by": [
+      "llama33Results_stage2_3"
+    ],
+    "missed_by": [
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Resop_JP_D_2010.pdf",
+    "page_number": 106,
+    "chapter_title": "PhD Final Resop Chapter 5 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/38694/Resop_JP_D_2010.pdf",
+    "miss_count": 6,
+    "total_models": 8,
+    "miss_rate": 0.75,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Hunter_DN_D_2015.pdf",
+    "page_number": 96,
+    "chapter_title": "Chapter 5. Discussion and Conclusion",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/56569/Hunter_DN_D_2015.pdf",
+    "miss_count": 6,
+    "total_models": 8,
+    "miss_rate": 0.75,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Maher_MP_D_2017.pdf",
+    "page_number": 94,
+    "chapter_title": "Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/81206/Maher_MP_D_2017.pdf",
+    "miss_count": 5,
+    "total_models": 8,
+    "miss_rate": 0.625,
+    "detected_by": [
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama33Results_stage2_3",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "etd-01212010-182722_Rajasekaran_P_D_2009.pdf",
+    "page_number": 135,
+    "chapter_title": "Overall Summary and Conclusion",
+    "label": "SUMMARY|CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/77310/etd-01212010-182722_Rajasekaran_P_D_2009.pdf",
+    "miss_count": 5,
+    "total_models": 8,
+    "miss_rate": 0.625,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Liang_L_D_2017.pdf",
+    "page_number": 151,
+    "chapter_title": "7 Summary and Conclusions",
+    "label": "SUMMARY|CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/79488/Liang_L_D_2017.pdf",
+    "miss_count": 5,
+    "total_models": 8,
+    "miss_rate": 0.625,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Dissertation_Wan.pdf",
+    "page_number": 163,
+    "chapter_title": "Chapter 7 Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28333/Dissertation_Wan.pdf",
+    "miss_count": 4,
+    "total_models": 8,
+    "miss_rate": 0.5,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "etd-12142009-004520_Bank_JN_D_2009.pdf",
+    "page_number": 142,
+    "chapter_title": "CONCLUSIONS AND FINAL REMARKS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/73008/etd-12142009-004520_Bank_JN_D_2009.pdf",
+    "miss_count": 4,
+    "total_models": 8,
+    "miss_rate": 0.5,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Karpin_GW_D_2017.pdf",
+    "page_number": 89,
+    "chapter_title": "5. Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/79414/Karpin_GW_D_2017.pdf",
+    "miss_count": 4,
+    "total_models": 8,
+    "miss_rate": 0.5,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "DISSERTATION_JungHunChoi_Final_Submission022406.pdf",
+    "page_number": 132,
+    "chapter_title": "8 Concluding Remarks",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26218/DISSERTATION_JungHunChoi_Final_Submission022406.pdf",
+    "miss_count": 3,
+    "total_models": 8,
+    "miss_rate": 0.375,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Ali_AK_D_2012.pdf",
+    "page_number": 259,
+    "chapter_title": "Chapter 6: Summary and Conclusion",
+    "label": "CONCLUSION|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/49549/Ali_AK_D_2012.pdf",
+    "miss_count": 3,
+    "total_models": 8,
+    "miss_rate": 0.375,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Barbosa_ETD.pdf",
+    "page_number": 216,
+    "chapter_title": "Chapter 6. General Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28651/Barbosa_ETD.pdf",
+    "miss_count": 3,
+    "total_models": 8,
+    "miss_rate": 0.375,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Hearn_CW_D_2012.pdf",
+    "page_number": 126,
+    "chapter_title": "8 Chapter - Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/49554/Hearn_CW_D_2012.pdf",
+    "miss_count": 3,
+    "total_models": 8,
+    "miss_rate": 0.375,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "J_Bryson_Dissertation_9222009.pdf",
+    "page_number": 173,
+    "chapter_title": "Chapter 8 future work",
+    "label": "FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/28726/J_Bryson_Dissertation_9222009.pdf",
+    "miss_count": 2,
+    "total_models": 8,
+    "miss_rate": 0.25,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Richmond_OB_D_2015.pdf",
+    "page_number": 111,
+    "chapter_title": "Chapter 6: Summary and Conclusions",
+    "label": "CONCLUSION|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/73766/Richmond_OB_D_2015.pdf",
+    "miss_count": 2,
+    "total_models": 8,
+    "miss_rate": 0.25,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "McLendon_PM_D_2009.pdf",
+    "page_number": 206,
+    "chapter_title": "Chapter 7 - Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29436/McLendon_PM_D_2009.pdf",
+    "miss_count": 2,
+    "total_models": 8,
+    "miss_rate": 0.25,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "MAZdissertation05.05.05final.pdf",
+    "page_number": 131,
+    "chapter_title": "CHAPTER 7. Recommendations for Future Work",
+    "label": "FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/27528/MAZdissertation05.05.05final.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "MokaremDissertation.pdf",
+    "page_number": 116,
+    "chapter_title": "CHAPTER 7: CONCLUSIONS",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/27605/MokaremDissertation.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Defense_mmital.pdf",
+    "page_number": 72,
+    "chapter_title": "Chapter 7 Results and Discussion",
+    "label": "DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/30269/Defense_mmital.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Wu_T_D_2012.pdf",
+    "page_number": 216,
+    "chapter_title": "Chapter 9 Suggested Future Work",
+    "label": "FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/39332/Wu_T_D_2012.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "ETD_Fred_D_Barlow_III.pdf",
+    "page_number": 125,
+    "chapter_title": "CHAPTER 9 Summary of Findings",
+    "label": "SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/28291/ETD_Fred_D_Barlow_III.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "MouETDSubmitted.pdf",
+    "page_number": 238,
+    "chapter_title": "8. CHAPTER-8-Future and Suggested Research",
+    "label": "FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/28421/MouETDSubmitted.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "etd-05102010-061531_Gan_L_D_2010.pdf",
+    "page_number": 114,
+    "chapter_title": "CHAPTER 7: IMPLICATIONS AND FUTURE DIRECTIONS",
+    "label": "IMPLICATIONS|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/77071/etd-05102010-061531_Gan_L_D_2010.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama4ScoutResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Hofmann_J_D_2013.pdf",
+    "page_number": 185,
+    "chapter_title": "Chapter 6 : Conclusions and Recommendations for Future Research",
+    "label": "CONCLUSION|FUTURE_WORK|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/23921/Hofmann_J_D_2013.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "ImprovingSFE.pdf",
+    "page_number": 125,
+    "chapter_title": "Chapter Six - Conclusions",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/26623/ImprovingSFE.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Chigani_Amine_D_2011.pdf",
+    "page_number": 171,
+    "chapter_title": "CHAPTER 8: CONCLUDING REMARKS AND FUTURE WORK",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/26782/Chigani_Amine_D_2011.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "AnnFornofDissertationFinal.pdf",
+    "page_number": 175,
+    "chapter_title": "Chapter 8: Suggested Future Work",
+    "label": "FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/27101/AnnFornofDissertationFinal.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Brian_Perkins_Dissertation.pdf",
+    "page_number": 133,
+    "chapter_title": "Chapter 6. Conclusions, Contributions, Limitations and Recommendations",
+    "label": "CONCLUSION|LIMITATIONS|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/27735/Brian_Perkins_Dissertation.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "RVMacriDissertation.pdf",
+    "page_number": 255,
+    "chapter_title": "CHAPTER 6 \u2013 CONCLUSIONS AND FUTURE WORK",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/27831/RVMacriDissertation.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "seals_final_one.pdf",
+    "page_number": 260,
+    "chapter_title": "CHAPTER 7. DISCUSSION AND CONCLUSIONS",
+    "label": "CONCLUSION|DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/28766/seals_final_one.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "JMM_ETD.pdf",
+    "page_number": 43,
+    "chapter_title": "CHAPTER 5 DISCUSSION, IMPLICATIONS AND LIMITATIONS",
+    "label": "DISCUSSION|IMPLICATIONS|LIMITATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/37642/JMM_ETD.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Zha_W_D_2014.pdf",
+    "page_number": 139,
+    "chapter_title": "Chapter 6 Conclusion",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/46787/Zha_W_D_2014.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Kumar_S_D_2012.pdf",
+    "page_number": 158,
+    "chapter_title": "Chapter 6. Summary, Conclusions and Recommendations",
+    "label": "CONCLUSION|RECOMMENDATIONS|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/49399/Kumar_S_D_2012.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Delgoshaei_P_D_2013.pdf",
+    "page_number": 128,
+    "chapter_title": "CHAPTER 7: CONCLUSIONS AND FUTURE DIRECTIONS",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/49674/Delgoshaei_P_D_2013.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Youngstrom_DW_D_2015.pdf",
+    "page_number": 124,
+    "chapter_title": "CHAPTER 7: CONCLUSIONS AND FUTURE RESEARCH",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/64422/Youngstrom_DW_D_2015.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Pisipati_P_D_2015.pdf",
+    "page_number": 170,
+    "chapter_title": "Chapter 6 Conclusions and suggested future research",
+    "label": "CONCLUSION|FUTURE_WORK",
+    "full_path": "/projects/open_etds/etd/dissertation/73150/Pisipati_P_D_2015.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Deramo_MC_D_2017.pdf",
+    "page_number": 194,
+    "chapter_title": "Chapter 8 Conclusion: Making a Home in a Country That is not Yours",
+    "label": "CONCLUSION",
+    "full_path": "/projects/open_etds/etd/dissertation/76736/Deramo_MC_D_2017.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "Chen_F_D_2017.pdf",
+    "page_number": 181,
+    "chapter_title": "Chapter 7. Summary, Conclusions and Future Work",
+    "label": "CONCLUSION|FUTURE_WORK|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/77532/Chen_F_D_2017.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_stage2_3"
+    ]
+  },
+  {
+    "pdf_name": "MathaiDissertation.pdf",
+    "page_number": 85,
+    "chapter_title": "Chapter Five: Discussion",
+    "label": "DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/29156/MathaiDissertation.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "silva.pdf",
+    "page_number": 214,
+    "chapter_title": "Chapter 6 Analysis, Conclusions, and Recommendations",
+    "label": "CONCLUSION|RECOMMENDATIONS",
+    "full_path": "/projects/open_etds/etd/dissertation/29287/silva.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "Hollingsworth_WL_D_2014.pdf",
+    "page_number": 90,
+    "chapter_title": "Chapter 5. Discussion",
+    "label": "DISCUSSION",
+    "full_path": "/projects/open_etds/etd/dissertation/56628/Hollingsworth_WL_D_2014.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "mistralsmallResults_stage2_3",
+      "mistralsmallResults_full_pipeline"
+    ],
+    "missed_by": [
+      "llama3.18bResults_full_pipeline"
+    ]
+  },
+  {
+    "pdf_name": "White_NA_D_2014.pdf",
+    "page_number": 237,
+    "chapter_title": "Chapter 8: Research Summary and Future Work",
+    "label": "FUTURE_WORK|SUMMARY",
+    "full_path": "/projects/open_etds/etd/dissertation/53830/White_NA_D_2014.pdf",
+    "miss_count": 1,
+    "total_models": 8,
+    "miss_rate": 0.125,
+    "detected_by": [
+      "llama33Results_stage2_3",
+      "llama33Results_full_pipeline",
+      "llama4ScoutResults_stage2_3",
+      "llama4ScoutResults_full_pipeline",
+      "llama3.18bResults_stage2_3",
+      "llama3.18bResults_full_pipeline",
+      "mistralsmallResults_stage2_3"
+    ],
+    "missed_by": [
+      "mistralsmallResults_full_pipeline"
+    ]
+  }
+]

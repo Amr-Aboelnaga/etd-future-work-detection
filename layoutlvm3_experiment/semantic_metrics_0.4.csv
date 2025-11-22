@@ -1,0 +1,2 @@
+method,threshold,precision,recall,f1_score,true_positives,false_positives,false_negatives,total_predictions,total_gold_pages
+semantic_t0.4,0.4,0.07056748015289621,0.729483282674772,0.128686327077748,240,3161,89,3401,329
